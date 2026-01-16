@@ -14,7 +14,14 @@ Thumbs.db
 
 # Data (avoid committing large/private datasets)
 data/
+# Ignore all CSVs by default
 *.csv
+
+# Explicitly allow project datasets
+!train.csv
+!test.csv
+!sample_submission.csv
+!submissions.csv
 
 # Outputs
 *.pkl
