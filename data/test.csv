@@ -1,0 +1,601 @@
+title,country,genres,language,writer_count,title_adaption,censor_rating,release_date,runtime,dvd_release_date,users_votes,comments,likes,overall_views,dislikes,ratings_imdb,ratings_tomatoes,ratings_metacritic,special_award,awards_win,awards_nomination
+Delhi-6 ,India,"Comedy, Drama","Hindi, English",3.0,True,Not Rated,20-Feb-09,141 min,16-Jun-09,"6,337",7.0,43.0,165008.0,13.0,6.0/10,40%,45/100,0,2,7
+Before I Disappear ,"USA, UK",Drama,English,1.0,False,Unrated,28-Nov-14,93 min,19-May-15,"8,370",,,,,7.2/10,38%,47/100,0,16,8
+"Good Year, A ","USA, UK","Comedy, Drama, Romance","English, French, Russian",2.0,True,PG-13,10-Nov-06,117 min,27-Feb-07,"82,062",14.0,276.0,187788.0,17.0,7.0/10,25%,47/100,0,1,2
+Brüno ,"USA, UK",Comedy,"English, German",9.0,True,R,10-Jul-09,81 min,17-Nov-09,"1,33,925",81.0,301.0,200324.0,43.0,5.8/10,67%,54/100,0,2,5
+How to Lose a Guy in 10 Days ,"USA, Germany","Comedy, Romance",English,5.0,True,PG-13,07-Feb-03,116 min,01-Jul-03,"1,90,396",74.0,480.0,740345.0,23.0,6.4/10,42%,45/100,0,1,8
+Restless ,USA,"Drama, Romance",English,1.0,False,PG-13,06-Apr-11,91 min,24-Jan-12,"16,698",,,,,6.8/10,37%,47/100,0,0,1
+Young & Beautiful ,France,"Drama, Romance","French, German",1.0,False,Not Rated,25-Apr-14,95 min,26-Aug-14,"28,841",63.0,518.0,871034.0,162.0,6.8/10,73%,63/100,0,3,7
+Iron Man 3 ,USA,"Action, Adventure, Sci-Fi",English,8.0,True,PG-13,03-May-13,130 min,24-Sep-13,"6,93,723",2664.0,19551.0,3984203.0,799.0,7.2/10,79%,62/100,1,17,61
+Invictus ,USA,"Biography, Drama, History, Sport","English, Afrikaans, Maori, Zulu, Xhosa, Southern Sotho",2.0,True,PG-13,11-Dec-09,134 min,18-May-10,"1,41,004",0.0,7.0,13204.0,2.0,7.3/10,76%,74/100,1,10,33
+"SpongeBob SquarePants Movie, The ",USA,"Animation, Adventure, Comedy, Family, Fantasy",English,8.0,True,PG,19-Nov-04,87 min,01-Mar-05,"71,099",,,8084901.0,,7.1/10,69%,66/100,0,1,10
+Barbershop 2: Back in Business ,USA,"Comedy, Drama",English,2.0,True,PG-13,06-Feb-04,106 min,29-Jun-04,"13,437",24.0,301.0,225646.0,16.0,5.8/10,69%,59/100,0,2,10
+The Hornet's Nest ,"Afghanistan, USA","Documentary, Action, History, War",English,,False,R,09-May-14,93 min,09-Sep-14,"2,058",2190.0,10364.0,4090938.0,965.0,6.6/10,72%,61/100,0,0,0
+State of Play ,"USA, UK, France","Crime, Drama, Mystery, Thriller","English, Cantonese",4.0,True,PG-13,17-Apr-09,127 min,01-Sep-09,"1,27,033",14.0,47.0,105814.0,9.0,7.1/10,84%,64/100,0,2,4
+Barbershop ,USA,"Comedy, Drama",English,4.0,True,PG-13,13-Sep-02,102 min,01-Jan-03,"27,916",47.0,793.0,316280.0,39.0,6.3/10,82%,66/100,0,1,17
+Paper Clips ,USA,"Documentary, War","English, German",1.0,False,G,04-Aug-06,82 min,07-Mar-06,"1,647",22.0,98.0,48941.0,4.0,7.4/10,72%,64/100,0,11,1
+Rachel Getting Married ,USA,"Drama, Romance",English,1.0,False,R,07-Nov-08,113 min,10-Mar-09,"44,927",,697.0,1007544.0,103.0,6.7/10,84%,82/100,1,31,63
+No One Lives ,"USA, UK","Horror, Thriller",English,1.0,False,R,10-May-13,86 min,20-Aug-13,"16,585",286.0,1178.0,819227.0,74.0,6.0/10,47%,26/100,0,0,1
+Another Earth ,USA,"Drama, Romance, Sci-Fi",English,2.0,False,PG-13,12-Oct-11,92 min,29-Nov-11,"85,818",1330.0,6035.0,3285979.0,419.0,7.0/10,66%,66/100,0,7,13
+I Hope They Serve Beer in Hell ,USA,Comedy,English,3.0,True,R,25-Sep-09,105 min,26-Jan-10,"8,022",923.0,1621.0,2186056.0,1043.0,5.3/10,20%,26/100,0,0,0
+Bulletproof Monk ,"USA, Canada","Action, Comedy, Fantasy, Romance","English, Tibetan, Punjabi, German",2.0,False,PG-13,16-Apr-03,104 min,09-Sep-03,"45,946",486.0,1755.0,1422385.0,144.0,5.5/10,23%,40/100,0,0,1
+Madagascar ,USA,"Animation, Adventure, Comedy, Family","English, Portuguese, Spanish, German, French, Greek",4.0,False,PG,27-May-05,86 min,15-Nov-05,"3,32,432",22.0,142.0,242023.0,42.0,6.9/10,55%,57/100,0,4,31
+In the Name of the King: A Dungeon Siege Tale ,"Germany, Canada, USA","Action, Adventure, Fantasy, Thriller",English,5.0,True,PG-13,11-Jan-08,127 min,15-Apr-08,"42,347",3.0,42.0,81452.0,5.0,3.8/10,4%,15/100,0,4,5
+Goodbye First Love ,"France, Germany","Drama, Romance","French, German, Danish, English",1.0,True,Not Rated,06-Jul-11,110 min,25-Sep-12,"4,335",0.0,5.0,13874.0,1.0,6.6/10,83%,80/100,0,1,2
+"Amour fou, L' ",France,Documentary,French,2.0,False,NOT RATED,13-May-11,98 min,27-Sep-11,916,1.0,16.0,5165.0,1.0,6.8/10,61%,63/100,0,1,1
+How She Move ,"Canada, USA, France",Drama,English,1.0,False,PG-13,25-Jan-08,94 min,29-Apr-08,"4,733",,391.0,533581.0,21.0,3.3/10,65%,63/100,0,0,3
+Step Brothers ,USA,Comedy,"English, Spanish",5.0,True,R,25-Jul-08,98 min,02-Dec-08,"2,47,075",248.0,2615.0,1335528.0,129.0,6.9/10,55%,51/100,0,3,2
+Vincere ,"Italy, France","Biography, Drama, Romance","Italian, German",3.0,True,Unrated,20-May-09,128 min,27-Jul-10,"4,926",2.0,23.0,27922.0,0.0,6.9/10,92%,85/100,0,47,38
+Pain & Gain ,USA,"Action, Comedy, Crime, Drama, Thriller",English,3.0,True,R,26-Apr-13,129 min,27-Aug-13,"1,87,970",6932.0,49815.0,20810226.0,2804.0,6.4/10,51%,45/100,0,0,4
+"Son of No One, The ",USA,"Action, Crime, Drama, Thriller",English,1.0,False,R,09-Jul-11,90 min,21-Feb-12,"15,638",35.0,378.0,283701.0,27.0,5.1/10,16%,36/100,0,0,1
+Flushed Away ,"UK, USA","Animation, Adventure, Comedy, Family, Fantasy",English,9.0,True,PG,03-Nov-06,85 min,20-Feb-07,"1,02,483",7.0,46.0,30021.0,7.0,6.6/10,73%,74/100,1,6,13
+Frozen River ,USA,"Crime, Drama","English, French, Chinese, Urdu, Mohawk",1.0,False,R,05-Sep-08,97 min,10-Feb-09,"23,553",3.0,36.0,61773.0,20.0,7.2/10,88%,82/100,1,32,37
+Dredd ,"UK, South Africa, USA, India","Action, Crime, Sci-Fi",English,3.0,True,R,21-Sep-12,95 min,08-Jan-13,"2,34,852",,,,,7.1/10,79%,60/100,0,2,14
+Carol Channing: Larger Than Life ,USA,"Documentary, Biography, Comedy, Music",English,2.0,False,PG,20-Jan-12,87 min,21-May-12,231,22.0,78.0,35310.0,3.0,7.6/10,90%,67/100,0,1,2
+"Young Victoria, The ","UK, USA","Biography, Drama, History, Romance","English, German",1.0,False,PG,08-Jan-10,105 min,20-Apr-10,"54,046",26.0,,208943.0,,7.3/10,77%,64/100,1,12,17
+360 ,"UK, Austria, France, Brazil, USA, Canada","Drama, Thriller","English, German, Arabic, French, Portuguese, Russian, Slovak",1.0,True,R,25-Jul-12,110 min,06-Nov-12,"15,065",124.0,467.0,583511.0,47.0,6.2/10,20%,43/100,0,0,1
+"Jacket, The ","Germany, USA","Drama, Fantasy, Mystery, Sci-Fi, Thriller",English,3.0,True,R,04-Mar-05,103 min,21-Jun-05,"1,03,414",1.0,19.0,9811.0,2.0,7.1/10,44%,44/100,0,1,2
+Kill the Messenger ,USA,"Biography, Crime, Drama, Mystery, Thriller",English,3.0,True,R,09-Oct-14,112 min,10-Feb-15,"41,098",1140.0,10471.0,4882724.0,357.0,7.0/10,77%,60/100,0,3,6
+Julie & Julia ,USA,"Biography, Drama, Romance","English, French",4.0,True,PG-13,07-Aug-09,118 min,08-Dec-09,"96,054",297.0,6175.0,1893811.0,170.0,7.0/10,76%,66/100,1,24,46
+Mostly Martha ,"Germany, Italy, Austria, Switzerland","Comedy, Romance, Drama","German, Italian",1.0,False,PG,27-Sep-02,109 min,18-Feb-03,"7,461",,,47654.0,,7.3/10,92%,72/100,0,14,7
+Michael Clayton ,USA,"Crime, Drama, Mystery, Thriller",English,1.0,False,R,12-Oct-07,119 min,19-Feb-08,"1,48,808",,485.0,799913.0,50.0,7.3/10,90%,82/100,1,26,110
+Evolution ,USA,"Comedy, Sci-Fi",English,4.0,True,PG-13,08-Jun-01,101 min,26-Dec-01,"1,12,929",105.0,874.0,646538.0,61.0,6.1/10,43%,40/100,0,0,2
+City of Ember ,USA,"Adventure, Family, Fantasy, Sci-Fi",English,2.0,True,PG,10-Oct-08,90 min,20-Jan-09,"59,535",63.0,112.0,163474.0,6.0,6.5/10,53%,58/100,0,0,6
+Seducing Doctor Lewis ,Canada,Comedy,French,1.0,False,Unrated,26-Mar-04,108 min,25-Jan-05,"4,922",6.0,54.0,61444.0,5.0,7.4/10,68%,59/100,0,15,17
+About Schmidt ,USA,"Comedy, Drama",English,3.0,True,R,03-Jan-03,125 min,03-Jun-03,"1,17,382",39.0,498.0,260591.0,30.0,7.2/10,85%,85/100,1,25,69
+Dark Water ,USA,"Drama, Horror, Mystery",English,4.0,True,PG-13,08-Jul-05,105 min,26-Dec-05,"56,849",60.0,310.0,317927.0,34.0,5.6/10,47%,52/100,0,0,5
+Enduring Love ,UK,"Drama, Mystery, Romance, Thriller",English,2.0,True,R,26-Nov-04,100 min,03-May-05,"9,521",17.0,158.0,98881.0,13.0,6.4/10,58%,61/100,0,4,12
+Yes ,"UK, USA","Drama, Romance",English,1.0,False,R,05-Aug-05,100 min,08-Nov-05,"2,901",14.0,170.0,150694.0,16.0,6.8/10,52%,55/100,0,2,2
+Violet Tendencies ,USA,"Comedy, Drama, Romance",English,1.0,True,UNRATED,24-Apr-10,99 min,24-May-11,522,6.0,29.0,,6.0,6.2/10,57%,0,0,0,0
+Hugo ,"USA, UK, France","Adventure, Drama, Family, Fantasy, Mystery, Romance",English,2.0,True,PG,23-Nov-11,126 min,28-Feb-12,"2,85,154",193.0,1578.0,421841.0,89.0,7.5/10,93%,83/100,1,57,186
+"Last Mountain, The ",USA,Documentary,English,2.0,False,PG,01-Jan-11,95 min,01-Nov-11,259,,,,,7.8/10,80%,62/100,0,3,1
+Rise of the Guardians ,USA,"Animation, Action, Adventure, Comedy, Family, Fantasy","English, French",2.0,True,PG,21-Nov-12,97 min,12-Mar-13,"1,45,052",2522.0,17954.0,6160678.0,663.0,7.3/10,74%,57/100,1,14,31
+Moomins on the Riviera ,"Finland, France","Animation, Comedy, Family",Finnish,6.0,True,,04-Dec-15,80 min,,996,82.0,480.0,148025.0,22.0,6.0/10,77%,59/100,0,0,1
+"Artist, The ","France, Belgium, USA","Comedy, Drama, Romance","English, French",1.0,False,PG-13,20-Jan-12,100 min,26-Jun-12,"2,17,284",,,,,7.9/10,95%,89/100,1,145,188
+Beauty and the Beast ,USA,"Animation, Family, Fantasy, Musical, Romance","English, French",11.0,True,G,22-Nov-91,84 min,08-Oct-02,"3,90,615",454.0,2464.0,2020958.0,170.0,8.0/10,94%,95/100,1,24,25
+Love and Other Drugs ,USA,"Comedy, Drama, Romance",English,4.0,True,R,24-Nov-10,112 min,01-Mar-11,"1,67,510",229.0,11528.0,3284127.0,272.0,6.7/10,48%,55/100,1,1,3
+"For a Good Time, Call... ",USA,Comedy,English,2.0,False,R,02-Nov-12,85 min,18-Feb-13,"14,996",,,,,6.0/10,56%,55/100,0,0,0
+"Hitchhiker's Guide to the Galaxy, The ","UK, USA","Adventure, Comedy, Sci-Fi",English,3.0,True,PG,29-Apr-05,109 min,13-Sep-05,"1,77,455",1357.0,7524.0,2226244.0,219.0,6.8/10,60%,63/100,0,1,10
+Stories We Tell ,Canada,Documentary,English,2.0,False,PG-13,17-Jan-13,108 min,03-Sep-13,"11,245",86.0,802.0,515126.0,36.0,7.6/10,94%,91/100,0,24,42
+Walk Hard: The Dewey Cox Story ,USA,"Comedy, Music",English,2.0,False,R,21-Dec-07,96 min,08-Apr-08,"62,797",562.0,2252.0,1572083.0,189.0,6.8/10,74%,63/100,1,1,4
+Thirst ,"South Korea, USA","Drama, Horror, Romance","Korean, English, French",3.0,True,R,30-Apr-09,135 min,17-Nov-09,"37,525",12.0,105.0,93743.0,6.0,7.2/10,81%,73/100,0,12,18
+Shepard & Dark ,USA,"Documentary, Drama",English,,False,NOT RATED,11-Oct-12,92 min,21-Oct-13,138,4.0,81.0,16072.0,1.0,6.2/10,86%,66/100,0,5,0
+"Sisterhood of the Traveling Pants 2, The ",USA,"Comedy, Drama, Romance","English, Greek",2.0,True,PG-13,06-Aug-08,119 min,18-Nov-08,"25,499",25.0,1453.0,288929.0,20.0,6.2/10,65%,63/100,0,0,1
+"Theory of Everything, The ","UK, Japan, USA","Biography, Drama, Romance","English, French",2.0,True,PG-13,26-Nov-14,123 min,17-Feb-15,"3,60,073",45.0,,156755.0,,7.7/10,79%,72/100,1,24,121
+Wordplay ,USA,Documentary,English,2.0,False,PG,21-Jul-06,94 min,07-Nov-06,"3,524",1.0,18.0,15193.0,5.0,7.4/10,95%,73/100,0,1,7
+"Thieves, The ",South Korea,"Action, Comedy, Crime, Thriller","Korean, Cantonese, English, Mandarin, Japanese",3.0,True,Not Rated,25-Jul-12,135 min,12-Feb-13,"8,050",,,,,6.8/10,69%,75/100,0,10,16
+Main Street ,USA,Drama,English,1.0,False,PG,26-Jul-12,92 min,15-Nov-11,"2,389",,40.0,81618.0,6.0,4.7/10,14%,0,0,0,1
+"Haunted Mansion, The ",USA,"Comedy, Family, Fantasy, Horror, Mystery",English,1.0,False,PG,26-Nov-03,88 min,20-Apr-04,"38,209",36.0,192.0,129928.0,14.0,5.0/10,13%,34/100,0,1,4
+Venus and Serena ,USA,"Documentary, Sport",English,,False,PG-13,28-Jun-13,99 min,02-Jul-13,672,,,25210.0,,6.2/10,77%,65/100,0,0,1
+Ai Weiwei: Never Sorry ,USA,Documentary,"English, Mandarin",1.0,False,R,14-Jun-12,91 min,03-Dec-12,"3,964",11.0,200.0,36668.0,2.0,7.6/10,98%,81/100,0,9,14
+Phil Ochs: There But for Fortune ,USA,"Documentary, Biography, History",English,1.0,False,UNRATED,05-Jan-11,96 min,19-Jul-11,336,13.0,96.0,23574.0,2.0,7.6/10,97%,72/100,0,0,0
+Priceless ,France,"Comedy, Romance","French, English",3.0,False,PG-13,11-Apr-08,106 min,30-Oct-07,"29,035",41.0,384.0,433159.0,22.0,7.0/10,81%,72/100,0,1,1
+88 Minutes ,"USA, Germany, Canada","Crime, Drama, Mystery, Thriller",English,1.0,False,R,18-Apr-08,108 min,16-Sep-08,"71,453",96.0,596.0,621055.0,61.0,5.9/10,5%,17/100,0,0,3
+"Christmas Carol, A ",USA,"Animation, Drama, Family, Fantasy",English,2.0,True,PG,06-Nov-09,96 min,16-Nov-10,"91,889",749.0,6768.0,3939719.0,400.0,6.8/10,54%,55/100,0,3,5
+"Lord of the Rings: The Return of the King, The ","New Zealand, USA","Adventure, Drama, Fantasy","English, Quenya, Old English, Sindarin",4.0,True,PG-13,17-Dec-03,201 min,25-May-04,"14,89,533",23.0,338.0,181986.0,15.0,8.9/10,93%,94/100,1,197,122
+Three ,Germany,"Comedy, Drama, Romance","German, English",1.0,False,Unrated,23-Dec-10,119 min,07-Feb-12,"4,716",33.0,266.0,190497.0,11.0,6.7/10,45%,55/100,0,8,11
+It's Complicated ,"USA, Japan","Comedy, Drama, Romance","English, French",1.0,False,R,25-Dec-09,120 min,27-Apr-10,"80,591",94.0,1256.0,1227034.0,69.0,6.6/10,58%,57/100,1,8,12
+Small Town Murder Songs ,Canada,"Crime, Drama, Thriller","English, Low German",1.0,False,R,22-Sep-11,75 min,19-Jul-11,"2,639",30.0,168.0,162256.0,11.0,5.9/10,79%,66/100,0,6,5
+I Saw the Devil ,South Korea,"Action, Crime, Drama, Horror, Thriller",Korean,2.0,True,Not Rated,12-Aug-10,142 min,10-May-11,"93,972",,,,,7.8/10,80%,67/100,0,16,19
+Criminal ,USA,"Comedy, Crime, Drama, Thriller","English, Spanish",3.0,True,R,24-Sep-04,87 min,12-Apr-05,"9,631",,,,,6.4/10,69%,61/100,0,0,0
+Legends of Oz: Dorothy's Return ,"USA, India","Animation, Adventure, Family, Fantasy, Musical",English,4.0,True,PG,09-May-14,88 min,26-Aug-14,"5,340",565.0,1997.0,1027970.0,1059.0,5.5/10,16%,25/100,0,1,5
+Skyfall ,"UK, USA","Action, Adventure, Thriller","English, Turkish, Shanghainese, Portuguese, Japanese",4.0,True,PG-13,09-Nov-12,143 min,11-Mar-13,"5,92,569",,59493.0,26946193.0,2485.0,7.8/10,92%,81/100,1,65,119
+Much Ado About Nothing ,USA,"Comedy, Drama, Romance",English,2.0,True,PG-13,14-Jun-13,109 min,08-Oct-13,"15,367",383.0,2192.0,511140.0,68.0,7.2/10,86%,78/100,0,1,8
+Despicable Me ,"USA, France","Animation, Comedy, Family, Fantasy",English,3.0,True,PG,09-Jul-10,95 min,14-Dec-10,"4,63,347",912.0,6267.0,5339221.0,510.0,7.7/10,81%,72/100,1,3,40
+Ain't in It for My Health: A Film About Levon Helm ,USA,"Documentary, Biography, Music",English,,False,,19-Apr-13,83 min,07-Oct-13,371,10.0,159.0,46037.0,3.0,7.2/10,87%,76/100,0,0,2
+Cesar Chavez ,"USA, Mexico","Biography, Drama","English, Spanish",2.0,True,PG-13,28-Mar-14,102 min,22-Jul-14,"3,017",0.0,2.0,2694.0,0.0,6.4/10,38%,51/100,0,5,2
+Million Dollar Baby ,USA,"Drama, Sport","English, Irish",2.0,True,PG-13,28-Jan-05,132 min,12-Jul-05,"5,85,414",182.0,939.0,830307.0,33.0,8.1/10,91%,86/100,1,63,83
+Chak De India! ,India,"Drama, Family, Sport",Hindi,3.0,True,Not Rated,10-Aug-07,153 min,20-Nov-07,"66,253",4.0,31.0,132147.0,1.0,8.2/10,93%,68/100,0,26,18
+What Lies Beneath ,USA,"Drama, Fantasy, Horror, Mystery, Thriller",English,3.0,True,PG-13,21-Jul-00,130 min,30-Jan-01,"1,10,435",,,,,6.6/10,46%,51/100,0,5,5
+Syrup ,USA,"Comedy, Drama, Romance",English,3.0,True,R,01-May-13,90 min,05-Nov-13,"10,203",154.0,1251.0,826383.0,90.0,5.7/10,25%,0,0,0,0
+It Might Get Loud ,USA,"Documentary, Music",English,,False,PG,27-Aug-09,98 min,22-Dec-09,"11,802",105.0,657.0,212900.0,11.0,7.6/10,80%,70/100,0,0,6
+Adaptation ,USA,"Comedy, Drama","English, Latin",2.0,True,R,14-Feb-03,115 min,20-May-03,"1,65,272",55.0,626.0,264942.0,25.0,7.7/10,91%,83/100,1,64,100
+Alien Abduction ,USA,"Horror, Sci-Fi, Thriller",English,1.0,False,Not Rated,01-May-14,85 min,12-Jan-15,"7,430",3.0,30.0,35206.0,7.0,4.9/10,28%,46/100,0,0,1
+Paranormal Activity 4 ,USA,"Horror, Mystery, Thriller","English, Ukrainian",3.0,True,R,19-Oct-12,88 min,29-Jan-13,"58,383",4455.0,6954.0,3445995.0,724.0,4.6/10,24%,40/100,0,2,0
+Big Eyes ,"USA, Canada","Biography, Crime, Drama, Romance","English, French, Italian",2.0,False,PG-13,25-Dec-14,106 min,14-Apr-15,"76,807",1338.0,16314.0,4093088.0,417.0,7.0/10,72%,62/100,1,2,18
+The Ghosts in Our Machine ,Canada,Documentary,"English, French, Spanish, German, Portuguese",1.0,False,,08-Nov-13,93 min,,600,5.0,123.0,13448.0,1.0,8.3/10,64%,60/100,0,2,10
+Brotherhood  ,USA,"Crime, Drama, Thriller",English,2.0,False,R,18-Nov-10,76 min,17-May-11,"3,798",156.0,351.0,530254.0,38.0,6.4/10,54%,52/100,0,3,1
+The Gunman ,"USA, Spain, UK, France","Action, Crime, Drama, Mystery, Thriller","English, Spanish",4.0,True,R,20-Mar-15,115 min,30-Jun-15,"35,998",849.0,5571.0,4602272.0,510.0,5.8/10,17%,39/100,0,0,1
+Star Trek Into Darkness ,USA,"Action, Adventure, Sci-Fi","English, Klingon",4.0,False,PG-13,16-May-13,132 min,10-Sep-13,"4,45,862",,,,,7.7/10,84%,72/100,1,6,56
+No Country for Old Men ,USA,"Crime, Drama, Thriller","English, Spanish",3.0,True,R,21-Nov-07,122 min,07-Apr-09,"7,63,641",72.0,489.0,243237.0,17.0,8.1/10,93%,91/100,1,157,132
+Knocked Up ,USA,"Comedy, Drama, Romance",English,1.0,False,R,01-Jun-07,129 min,25-Sep-07,"3,31,418",4.0,20.0,44824.0,3.0,7.0/10,90%,85/100,0,8,25
+Touching the Void ,"UK, USA","Documentary, Adventure, Drama, Sport",English,1.0,True,R,12-Mar-04,106 min,15-Jun-04,"31,431",14.0,40.0,78430.0,1.0,8.0/10,94%,82/100,0,6,10
+"Edge of Heaven, The ","Germany, Turkey, Italy",Drama,"German, Turkish, English",1.0,False,NOT RATED,27-Sep-07,122 min,14-Oct-08,"28,230",0.0,4.0,5020.0,0.0,7.8/10,90%,85/100,0,33,15
+One Night with the King ,USA,"Biography, Drama, History",English,3.0,True,PG,13-Oct-06,123 min,30-Jan-07,"6,373",3.0,352.0,370217.0,20.0,6.3/10,19%,38/100,0,2,0
+Are We Done Yet? ,"Canada, USA","Comedy, Family, Fantasy",English,6.0,True,PG,04-Apr-07,92 min,07-Aug-07,"18,058",103.0,,849917.0,,4.1/10,8%,36/100,0,0,3
+"Losers, The ",USA,"Action, Adventure, Crime, Mystery, Thriller",English,4.0,True,PG-13,23-Apr-10,97 min,20-Jul-10,"84,007",337.0,2220.0,2201846.0,149.0,6.4/10,48%,44/100,0,1,7
+Notes on a Scandal ,UK,"Crime, Drama, Romance, Thriller","English, French",2.0,True,R,26-Jan-07,92 min,17-Apr-07,"71,039",0.0,24.0,32968.0,3.0,7.4/10,87%,73/100,1,15,68
+Catch That Kid ,"USA, Germany","Adventure, Comedy, Crime, Family, Mystery",English,5.0,True,PG,06-Feb-04,91 min,01-Jun-04,"9,052",,,,,5.3/10,13%,33/100,0,0,1
+Catch Me If You Can ,"USA, Canada","Biography, Crime, Drama","English, French",3.0,True,PG-13,25-Dec-02,141 min,06-May-03,"7,17,865",,,2359040.0,,8.1/10,95%,75/100,1,13,41
+Me and You and Everyone We Know ,"USA, UK","Comedy, Drama",English,1.0,False,R,05-Aug-05,91 min,11-Oct-05,"33,486",18.0,266.0,66750.0,7.0,7.3/10,82%,76/100,0,22,15
+Circumstance ,"France, USA, Iran",Drama,"Persian, English, French",1.0,False,R,08-Feb-12,107 min,13-Dec-11,"7,035",26.0,204.0,107459.0,10.0,5.9/10,86%,65/100,0,11,8
+Honeymoon ,USA,"Horror, Mystery, Thriller",English,2.0,False,R,12-Sep-14,87 min,13-Jan-15,"22,876",646.0,3145.0,2295664.0,358.0,5.7/10,74%,65/100,0,0,5
+Mistaken for Strangers ,USA,"Documentary, Comedy, Music",English,,False,Not Rated,28-Mar-14,75 min,,"4,080",28.0,288.0,112488.0,5.0,7.3/10,92%,72/100,0,2,2
+Semi-Pro ,USA,"Comedy, Sport",English,1.0,False,R,29-Feb-08,91 min,03-Jun-08,"74,306",,,,,5.8/10,23%,47/100,0,1,4
+"Sleeping Beauty, The ",France,Drama,French,3.0,True,UNRATED,08-Jul-11,82 min,08-Nov-11,625,,,,,5.7/10,74%,69/100,0,1,1
+JCVD ,"Belgium, Luxembourg, France","Action, Comedy, Crime, Drama","French, English",6.0,False,R,02-Aug-19,97 min,28-Apr-09,"36,054",33.0,212.0,137182.0,12.0,7.2/10,84%,64/100,0,0,2
+Festival in Cannes ,USA,Comedy,English,2.0,False,PG-13,25-Jul-02,100 min,24-Sep-02,502,1.0,4.0,1740.0,0.0,6.0/10,65%,46/100,0,0,0
+Harry Potter and the Deathly Hallows: Part 2 ,"USA, UK","Adventure, Drama, Fantasy, Mystery",English,2.0,True,PG-13,15-Jul-11,130 min,11-Nov-11,"6,93,534",14579.0,39364.0,9015706.0,836.0,8.1/10,96%,87/100,1,45,91
+Margin Call ,USA,"Drama, Thriller",English,1.0,False,R,29-Sep-11,107 min,20-Dec-11,"1,07,239",637.0,2364.0,2022803.0,114.0,7.1/10,88%,76/100,1,8,23
+Facing Windows ,"Italy, Turkey, Portugal, UK","Drama, Romance",Italian,2.0,False,R,18-Jun-04,102 min,02-Nov-04,"10,075",16.0,89.0,66034.0,14.0,7.4/10,64%,55/100,0,27,22
+Beyond The Hills ,"Romania, France, Belgium",Drama,Romanian,2.0,True,Not Rated,26-Oct-12,152 min,,"10,568",,,115272.0,,7.6/10,90%,79/100,0,7,16
+Sightseers ,UK,"Adventure, Comedy, Crime, Horror, Romance",English,3.0,False,Not Rated,10-May-13,88 min,10-Dec-13,"24,866",215.0,1193.0,711406.0,118.0,6.5/10,85%,69/100,0,11,18
+"Me, Myself & Irene ",USA,Comedy,"English, German",3.0,False,R,23-Jun-00,116 min,24-May-01,"2,09,963",112.0,1546.0,876123.0,79.0,6.6/10,47%,49/100,0,2,4
+5 Broken Cameras ,"Palestine, Israel, France, Netherlands","Documentary, War","Hebrew, Arabic",,False,Not Rated,,94 min,15-Jan-13,"5,491",,,,,7.9/10,96%,78/100,1,18,6
+Molière ,France,"Biography, Comedy",French,2.0,False,PG-13,31-Jan-07,120 min,20-Nov-07,"5,641",,,,,7.2/10,69%,59/100,0,3,5
+Anita ,USA,"Documentary, History",English,1.0,False,Not Rated,25-May-13,95 min,,380,,,,,6.5/10,78%,68/100,0,3,3
+Jackass Presents: Bad Grandpa ,USA,Comedy,English,8.0,True,R,25-Oct-13,92 min,28-Jan-14,"85,663",14455.0,136435.0,26106053.0,4440.0,6.5/10,61%,54/100,1,2,9
+Nutty Professor II: The Klumps ,USA,"Comedy, Romance, Sci-Fi",English,8.0,True,PG-13,28-Jul-00,106 min,05-Dec-00,"45,619",,,,,4.4/10,26%,38/100,0,2,12
+Bobby ,USA,"Biography, Drama, History","English, Spanish",1.0,False,R,23-Nov-06,117 min,10-Apr-07,"40,067",120.0,410.0,442607.0,33.0,7.0/10,46%,54/100,1,7,15
+"Man in the White Suit, The ",UK,"Comedy, Drama, Sci-Fi",English,4.0,True,G,01-Apr-52,85 min,10-Sep-02,"7,848",2.0,41.0,12230.0,1.0,7.4/10,100%,0,1,1,2
+Demonlover ,France,"Thriller, Drama, Mystery","English, French, Japanese",1.0,False,R,06-Nov-02,129 min,16-Mar-04,"4,156",3.0,77.0,65901.0,8.0,5.9/10,51%,64/100,0,4,6
+Stealth ,USA,"Action, Adventure, Sci-Fi, Thriller","English, Korean, Russian, Spanish",1.0,False,PG-13,29-Jul-05,121 min,29-Jan-08,"49,651",281.0,875.0,1063026.0,103.0,5.0/10,12%,35/100,0,0,2
+Pusher ,UK,"Crime, Thriller","English, Serbo-Croatian",1.0,False,R,12-Oct-12,89 min,25-Jun-13,"4,330",198.0,655.0,530524.0,218.0,5.5/10,51%,52/100,0,0,2
+Made of Honor ,"USA, UK","Comedy, Romance",English,4.0,True,PG-13,02-May-08,101 min,16-Sep-08,"63,294",95.0,1308.0,820321.0,37.0,5.9/10,15%,37/100,0,1,1
+Paradise: Faith ,"Austria, Germany, France",Drama,"German, Arabic",2.0,True,Unrated,21-Mar-13,115 min,21-Oct-13,"3,773",1.0,12.0,30474.0,5.0,6.8/10,72%,61/100,0,6,5
+Romance & Cigarettes ,USA,"Comedy, Musical, Romance",English,1.0,False,R,,105 min,05-Feb-08,"10,931",4.0,40.0,94653.0,2.0,6.3/10,54%,55/100,0,0,3
+Warm Bodies ,"USA, Canada","Comedy, Horror, Romance",English,2.0,True,PG-13,01-Feb-13,98 min,04-Jun-13,"2,08,813",,,,,6.9/10,81%,60/100,0,1,10
+"Woman, a Gun and a Noodle Shop, A ","China, Hong Kong","Comedy, Drama","Mandarin, English",5.0,True,R,11-Dec-09,95 min,01-Feb-11,"2,777",53.0,176.0,188311.0,18.0,5.6/10,33%,57/100,0,0,2
+Into Great Silence ,"France, Switzerland, Germany",Documentary,"French, Latin",1.0,False,NOT RATED,10-Nov-05,169 min,06-Nov-07,"2,003",83.0,510.0,242244.0,18.0,7.4/10,88%,78/100,0,5,13
+Jayne Mansfield's Car ,"USA, Russia",Drama,English,2.0,False,R,20-Aug-13,122 min,09-Dec-13,"2,670",55.0,422.0,171630.0,89.0,6.3/10,36%,48/100,0,0,1
+Hum Tum ,India,"Comedy, Drama, Romance","Hindi, English",2.0,True,Not Rated,28-May-04,142 min,03-Aug-04,"12,171",90.0,1714.0,758424.0,92.0,7.0/10,0,0,0,13,24
+42 ,USA,"Biography, Drama, Sport",English,1.0,False,PG-13,12-Apr-13,128 min,16-Jul-13,"77,678",128.0,636.0,253732.0,24.0,7.5/10,80%,62/100,0,3,18
+Knight and Day ,USA,"Action, Adventure, Comedy","English, German, Spanish",1.0,False,PG-13,23-Jun-10,109 min,30-Nov-10,"1,69,986",0.0,78.0,36601.0,5.0,6.3/10,52%,46/100,0,0,3
+Clifford's Really Big Movie ,USA,"Animation, Adventure, Comedy, Family",English,3.0,True,G,23-Apr-04,74 min,24-Aug-04,663,,,,,5.5/10,53%,49/100,0,0,0
+Blood Diamond ,"USA, Germany","Adventure, Drama, Thriller","English, Mende, Afrikaans",3.0,True,R,08-Dec-06,143 min,20-Mar-07,"4,63,320",5.0,81.0,57356.0,5.0,8.0/10,63%,64/100,1,8,26
+Prime ,USA,"Comedy, Drama, Romance",English,1.0,False,PG-13,28-Oct-05,105 min,07-Mar-06,"38,175",8.0,146.0,104907.0,8.0,6.2/10,50%,58/100,0,0,1
+Eklavya: The Royal Guard ,India,"Action, Drama, Mystery, Thriller",Hindi,3.0,False,Not Rated,16-Feb-07,105 min,20-Feb-07,"2,931",,,,,6.2/10,75%,69/100,0,0,0
+"Other Woman, The ",USA,Drama,English,2.0,True,R,28-Oct-10,102 min,17-May-11,"17,758",,,,,6.4/10,38%,37/100,0,0,0
+Land of the Lost ,USA,"Action, Adventure, Comedy, Sci-Fi",English,4.0,False,PG-13,05-Jun-09,102 min,13-Oct-09,"60,491",485.0,2589.0,1806158.0,262.0,5.4/10,26%,32/100,0,2,9
+"Big Blue, The ",France,"Adventure, Drama, Sport","French, English, Italian",6.0,True,PG,19-Aug-88,168 min,15-Aug-00,"44,632",48.0,244.0,259795.0,16.0,7.6/10,62%,35/100,0,3,6
+Billabong Odyssey ,USA,"Documentary, Action, Adventure",English,,False,PG,25-Mar-04,88 min,27-Jan-04,454,,,,,6.9/10,36%,50/100,0,0,0
+End of the Spear ,USA,"Adventure, Biography, Drama, History","English, Spanish",3.0,False,PG-13,20-Jan-06,108 min,13-Jun-06,"4,687",96.0,273.0,217183.0,13.0,7.0/10,40%,45/100,0,1,1
+Monster ,"Germany, USA","Biography, Crime, Drama, Thriller",English,1.0,False,R,30-Jan-04,109 min,01-Jun-04,"1,24,763",1924.0,7994.0,4995463.0,607.0,7.3/10,81%,74/100,1,29,25
+Once ,Ireland,"Drama, Music, Romance","English, Czech",1.0,False,R,15-Jun-07,86 min,18-Dec-07,"1,05,030",234.0,1566.0,1068418.0,38.0,7.9/10,97%,88/100,1,22,30
+"Big Wedding, The ",USA,"Comedy, Drama, Romance","English, Spanish, Chinese, Latin",3.0,True,R,26-Apr-13,89 min,13-Aug-13,"44,076",59.0,253.0,252081.0,14.0,5.6/10,7%,28/100,0,0,2
+"Flying Scotsman, The ","Germany, UK","Drama, Sport",English,3.0,False,PG-13,29-Jun-07,96 min,18-Sep-07,"4,828",23.0,260.0,102485.0,5.0,7.1/10,50%,49/100,0,0,7
+"One I Love, The ",USA,"Drama, Fantasy, Mystery, Romance, Sci-Fi, Thriller",English,1.0,False,R,08-Aug-14,91 min,03-Nov-14,"30,878",307.0,2306.0,1843952.0,219.0,7.1/10,81%,66/100,0,2,2
+Incendies ,"Canada, France","Drama, Mystery, War","French, Arabic, English",4.0,True,R,12-Jan-11,131 min,13-Sep-11,"1,23,520",292.0,3186.0,1289965.0,111.0,8.3/10,93%,80/100,1,39,15
+Michael ,Austria,"Drama, Thriller",German,1.0,False,Not Rated,15-Feb-12,96 min,15-May-12,"4,134",0.0,113.0,155208.0,24.0,7.0/10,82%,64/100,0,6,9
+"Edukators, The ","Germany, Austria","Drama, Romance","German, English",2.0,False,R,25-Nov-04,127 min,15-Nov-05,"29,423",34.0,214.0,142794.0,10.0,7.5/10,70%,68/100,0,11,6
+Layer Cake ,UK,"Action, Crime, Drama, Thriller","English, Romanian",2.0,True,R,03-Jun-05,105 min,23-Aug-05,"1,54,072",19.0,162.0,301058.0,18.0,7.3/10,80%,73/100,0,2,9
+Garfield: A Tail of Two Kitties ,"UK, USA","Animation, Comedy, Family, Fantasy",English,3.0,False,PG,16-Jun-06,82 min,10-Oct-06,"34,474",34.0,458.0,222004.0,44.0,5.0/10,11%,37/100,0,0,4
+District 9 ,"South Africa, USA, New Zealand, Canada","Action, Sci-Fi, Thriller","English, Nyanja, Afrikaans, Zulu, Xhosa, Southern Sotho",2.0,False,R,14-Aug-09,112 min,22-Dec-09,"6,04,874",1.0,28.0,78321.0,3.0,7.9/10,90%,81/100,1,30,110
+Wimbledon ,"UK, France, USA","Comedy, Romance, Sport","English, Italian",3.0,False,PG-13,17-Sep-04,98 min,28-Dec-04,"56,643",,,,,6.3/10,61%,59/100,0,0,1
+Waiting for Forever ,USA,"Comedy, Drama, Romance",English,1.0,False,PG-13,04-Feb-11,95 min,03-May-11,"19,216",1099.0,5085.0,2438261.0,265.0,6.0/10,5%,26/100,0,1,1
+Paul ,"USA, UK","Adventure, Comedy, Sci-Fi","English, Klingon",2.0,False,R,18-Mar-11,104 min,09-Aug-11,"2,20,551",307.0,1736.0,1253614.0,71.0,7.0/10,71%,57/100,0,2,9
+Bill Cunningham New York ,USA,"Documentary, Biography, History",English,,False,Not Rated,16-Mar-11,84 min,19-Sep-11,"4,884",95.0,2206.0,829988.0,31.0,7.9/10,99%,76/100,0,1,12
+"Comebacks, The ",USA,"Comedy, Sport",English,6.0,True,R,19-Oct-07,84 min,29-Jan-08,"10,663",15.0,158.0,129098.0,11.0,4.2/10,9%,25/100,0,0,1
+Cyrus ,USA,"Comedy, Drama, Romance",English,2.0,False,R,16-Jul-10,91 min,14-Dec-10,"32,477",0.0,5.0,6081.0,0.0,6.3/10,80%,74/100,0,0,6
+Pirates of the Caribbean: The Curse of the Black Pearl ,USA,"Action, Adventure, Fantasy",English,6.0,True,PG-13,09-Jul-03,143 min,02-Dec-03,"9,64,353",385.0,5467.0,1838852.0,155.0,8.0/10,79%,63/100,1,36,96
+The Salt of the Earth ,"France, Brazil, Italy","Documentary, Biography, History","French, English, Portuguese",2.0,True,PG-13,27-Mar-15,110 min,14-Jul-15,"17,294",10.0,712.0,261946.0,7.0,8.4/10,95%,83/100,1,12,11
+Happythankyoumoreplease ,USA,"Comedy, Drama, Romance",English,1.0,True,R,03-Mar-11,100 min,21-Jun-11,"28,324",167.0,739.0,288036.0,53.0,6.8/10,40%,45/100,0,1,3
+Wrong ,"France, USA","Comedy, Mystery",English,1.0,True,Not Rated,01-Feb-13,94 min,11-Jun-13,"8,470",105.0,848.0,229173.0,34.0,6.3/10,67%,58/100,0,0,7
+Cirque du Freak: The Vampire's Assistant ,USA,"Action, Adventure, Fantasy, Thriller","English, Spanish, French",3.0,True,PG-13,23-Oct-09,109 min,23-Feb-10,"40,587",1983.0,3251.0,1521931.0,287.0,5.9/10,38%,43/100,0,1,0
+Spider-Man ,USA,"Action, Adventure, Sci-Fi",English,3.0,True,PG-13,03-May-02,121 min,01-Nov-02,"6,40,512",0.0,15.0,10232.0,0.0,7.3/10,90%,73/100,1,16,58
+House of Sand and Fog ,USA,"Crime, Drama","English, Persian",3.0,True,R,09-Jan-04,126 min,30-Mar-04,"61,896",34.0,201.0,89395.0,20.0,7.6/10,74%,71/100,1,13,39
+Beautiful Creatures ,USA,"Drama, Fantasy, Romance",English,3.0,True,PG-13,14-Feb-13,124 min,21-May-13,"79,748",4501.0,15822.0,5043510.0,974.0,6.2/10,47%,52/100,0,0,9
+Whale Rider ,"New Zealand, Germany","Drama, Family","English, Maori",2.0,True,PG-13,29-Aug-03,101 min,28-Oct-03,"37,559",5.0,41.0,15035.0,0.0,7.6/10,91%,80/100,1,33,34
+Disconnect ,USA,"Drama, Thriller",English,1.0,False,R,05-Jul-13,115 min,17-Sep-13,"69,969",,,305596.0,,7.5/10,70%,64/100,0,0,0
+More American Graffiti ,USA,"Comedy, Drama, War","English, Icelandic",4.0,True,PG,03-Aug-79,110 min,02-Sep-03,"3,726",9.0,56.0,20713.0,6.0,5.3/10,20%,0,0,0,0
+Waitress ,USA,"Comedy, Drama, Romance",English,1.0,False,PG-13,25-May-07,108 min,27-Nov-07,"41,767",14.0,422.0,91641.0,5.0,7.0/10,90%,75/100,0,6,15
+"Tuesday, After Christmas ",Romania,"Drama, Romance",Romanian,3.0,True,Unrated,25-May-11,99 min,27-Dec-11,"3,941",5.0,51.0,281464.0,15.0,7.0/10,73%,81/100,0,6,14
+Sister Act ,USA,"Comedy, Crime, Family, Music",English,1.0,False,PG,29-May-92,100 min,18-Jan-00,"78,992",,,,,6.4/10,72%,51/100,1,8,8
+Monsieur Ibrahim ,France,"Comedy, Drama","French, Turkish",3.0,True,R,09-Apr-04,95 min,06-Jul-04,"10,315",28.0,214.0,125177.0,14.0,7.4/10,85%,69/100,1,5,7
+Beyond Borders ,"Germany, USA","Adventure, Drama, Romance, War","English, Amharic, Khmer, German, Chechen",1.0,False,R,24-Oct-03,127 min,23-Mar-04,"25,193",,,,,6.5/10,14%,32/100,0,0,2
+"Illusionist, The ","France, UK","Animation, Drama","English, French, Scottish Gaelic",2.0,True,PG,11-Feb-11,80 min,10-May-11,"31,703",,,,,7.5/10,91%,82/100,1,6,30
+Idlewild ,USA,"Crime, Drama, Musical, Romance",English,1.0,False,R,25-Aug-06,121 min,05-Dec-06,"4,971",17.0,342.0,79895.0,6.0,6.3/10,47%,55/100,0,1,5
+"Other End of the Line, The ","UK, USA, India","Comedy, Drama, Romance","English, Hindi, Italian",1.0,False,PG-13,12-Feb-09,106 min,31-Mar-09,"5,470",,,,,6.3/10,35%,40/100,0,0,0
+Winter in Wartime ,"Netherlands, Belgium","Drama, History, War","Dutch, English, German",4.0,True,R,27-Nov-08,103 min,26-Jul-11,"11,431",195.0,671.0,459934.0,43.0,7.0/10,75%,66/100,0,10,9
+Terminator 3: Rise of the Machines ,"USA, Germany, UK","Action, Sci-Fi",English,7.0,True,R,02-Jul-03,109 min,11-Nov-03,"3,49,087",,,,,6.3/10,69%,66/100,0,3,21
+Kissing Jessica Stein ,USA,"Comedy, Drama, Romance",English,2.0,False,R,05-Apr-02,97 min,17-Sep-02,"15,315",43.0,265.0,276783.0,29.0,6.6/10,83%,72/100,0,8,3
+Why We Fight ,"UK, France, Denmark, Canada, USA","Documentary, History, War","English, Arabic",1.0,False,PG-13,01-Jan-05,98 min,27-Jun-06,"9,549",,,,,8.1/10,79%,68/100,0,4,3
+"Gift, The ",USA,"Drama, Fantasy, Horror, Mystery",English,2.0,False,R,19-Jan-01,111 min,06-Nov-01,"58,779",14.0,167.0,156723.0,23.0,6.7/10,57%,62/100,0,0,8
+Saw ,USA,"Crime, Horror, Mystery, Thriller",English,3.0,True,R,29-Oct-04,103 min,15-Feb-05,"3,52,470",314.0,2043.0,1216121.0,244.0,7.6/10,49%,46/100,0,8,10
+Munich ,"France, Canada, USA","Drama, History, Thriller","English, German, French, Hebrew, Arabic, Italian, Greek, Russian, Dutch",3.0,True,R,06-Jan-06,164 min,09-May-06,"1,98,563",48.0,346.0,232196.0,36.0,7.6/10,78%,74/100,1,13,65
+Akeelah and the Bee ,USA,"Drama, Family",English,1.0,False,PG,28-Apr-06,112 min,29-Aug-06,"17,157",69.0,778.0,236345.0,44.0,7.4/10,85%,72/100,0,12,14
+Ivory Tower ,USA,"Documentary, Family, History, News",English,1.0,False,PG-13,04-May-15,90 min,30-Sep-14,"1,212",1.0,9.0,4301.0,0.0,7.0/10,83%,65/100,0,0,3
+I Served the King of England ,"Czech Republic, Slovakia","Comedy, Drama, Romance, War","Czech, German, French, English, Italian, Korean",2.0,True,R,11-Jan-07,113 min,17-Feb-09,"6,884",,,,,7.4/10,79%,72/100,0,10,12
+Frost/Nixon ,"UK, France, USA","Biography, Drama, History",English,2.0,True,R,23-Jan-09,122 min,21-Apr-09,"96,721",11.0,62.0,27271.0,1.0,7.7/10,93%,80/100,1,21,71
+Gridiron Gang ,USA,"Crime, Drama, Sport",English,2.0,True,PG-13,15-Sep-06,125 min,16-Jan-07,"42,019",37.0,5206.0,2169097.0,1289.0,6.9/10,42%,52/100,0,0,0
+Last Days ,USA,"Drama, Music",English,1.0,False,R,13-May-05,97 min,25-Oct-05,"20,675",49.0,187.0,61479.0,11.0,5.8/10,57%,67/100,0,1,5
+My Big Fat Greek Wedding ,"Canada, USA","Comedy, Drama, Romance","English, Greek",1.0,False,PG,02-Aug-02,95 min,11-Feb-03,"1,13,642",110.0,1364.0,744192.0,62.0,6.6/10,76%,62/100,1,20,28
+Drona ,India,"Action, Adventure, Drama, Fantasy, Sci-Fi",Hindi,4.0,True,Not Rated,02-Oct-08,138 min,16-Dec-08,"2,240",1.0,20.0,30987.0,9.0,2.1/10,0,0,0,0,0
+"Hobbit: The Desolation of Smaug, The ","USA, New Zealand","Adventure, Fantasy",English,5.0,True,PG-13,13-Dec-13,161 min,08-Apr-14,"5,65,965",,,,,7.8/10,74%,66/100,1,16,86
+3000 Miles to Graceland ,USA,"Action, Comedy, Crime, Thriller",English,3.0,True,R,23-Feb-01,125 min,07-Aug-01,"41,727",36.0,345.0,286789.0,23.0,6.0/10,14%,21/100,0,0,12
+March of the Penguins ,France,"Documentary, Family","French, English",4.0,False,G,22-Jul-05,80 min,29-Nov-05,"53,324",4.0,85.0,52822.0,6.0,7.6/10,95%,79/100,1,21,15
+Atlas Shrugged: Part 1 ,USA,"Drama, Mystery, Sci-Fi",English,3.0,True,PG-13,15-Apr-11,97 min,08-Nov-11,"12,545",,,3438164.0,,5.7/10,12%,28/100,0,1,0
+V/H/S ,USA,"Horror, Thriller",English,12.0,False,R,06-Sep-12,116 min,04-Dec-12,"53,102",,,,,5.8/10,57%,55/100,0,0,5
+Outlander ,"USA, Germany, France","Action, Adventure, Sci-Fi","English, Norse,  Old, Latin",2.0,False,R,11-Jul-08,115 min,26-May-09,"68,938",4.0,78.0,160821.0,7.0,6.3/10,37%,40/100,0,0,1
+Jiro Dreams of Sushi ,USA,Documentary,Japanese,,False,PG,15-Mar-12,81 min,24-Jul-12,"30,851",32.0,306.0,104525.0,14.0,7.9/10,99%,77/100,0,2,12
+"Punk Singer, The ",USA,"Documentary, Biography, Music",English,,False,Not Rated,10-Mar-13,81 min,25-Mar-14,"2,485",37.0,565.0,99263.0,9.0,7.4/10,91%,75/100,0,1,6
+"Aviator, The ","Germany, USA","Biography, Drama",English,1.0,False,PG-13,25-Dec-04,170 min,24-May-05,"3,06,763",257.0,3755.0,1704706.0,105.0,7.5/10,86%,77/100,1,81,130
+Drug War ,"China, Hong Kong","Action, Crime, Drama, Thriller","Mandarin, Cantonese",4.0,True,R,04-Apr-13,107 min,29-Oct-13,"8,522",135.0,923.0,401967.0,46.0,7.0/10,94%,86/100,0,7,17
+"Big Year, The ","USA, Canada",Comedy,English,2.0,True,PG,14-Oct-11,100 min,31-Jan-12,"39,558",623.0,2029.0,2202379.0,203.0,6.2/10,41%,53/100,0,1,0
+Sleuth ,"UK, USA","Crime, Drama, Mystery, Thriller",English,2.0,True,R,23-Nov-07,88 min,11-Mar-08,"29,027",,,,,6.5/10,36%,49/100,0,1,5
+Trumbo ,USA,"Documentary, Biography",English,2.0,True,PG-13,27-Jun-08,96 min,15-Sep-09,946,7.0,32.0,24506.0,7.0,7.5/10,83%,71/100,0,1,0
+Doogal ,"USA, UK, France","Animation, Adventure, Comedy, Family, Fantasy",English,10.0,True,G,24-Feb-06,78 min,16-May-06,"4,221",226.0,662.0,130013.0,141.0,2.8/10,8%,23/100,0,2,1
+How to Live Forever ,USA,Documentary,English,2.0,False,NOT RATED,01-Oct-09,92 min,05-Jun-12,219,12.0,94.0,41258.0,4.0,6.3/10,60%,57/100,0,0,1
+Nostalghia ,"Italy, Soviet Union",Drama,"Italian, Russian",2.0,True,Not Rated,01-Mar-92,125 min,06-Oct-98,"19,001",106.0,2161.0,349381.0,39.0,8.1/10,85%,0,0,3,1
+Like Someone In Love ,"Japan, France",Drama,Japanese,2.0,True,Not Rated,15-Sep-12,109 min,20-May-14,"8,939",67.0,518.0,322345.0,28.0,7.0/10,83%,76/100,0,1,5
+Meeting Evil ,USA,"Crime, Drama, Mystery, Thriller",English,2.0,True,R,30-Mar-12,89 min,24-Jul-12,"11,234",313.0,1455.0,924757.0,189.0,5.3/10,22%,0,0,0,0
+Moon ,"UK, USA","Drama, Mystery, Sci-Fi","English, Spanish",2.0,True,R,10-Jul-09,97 min,12-Jan-10,"3,12,050",4325.0,12753.0,6578894.0,453.0,7.9/10,90%,67/100,1,26,33
+Over Your Cities Grass Will Grow ,"France, Netherlands, UK",Documentary,"French, English, German",,False,,27-Oct-11,105 min,26-Feb-13,204,,,,,6.9/10,79%,66/100,0,0,1
+Unaccompanied Minors ,USA,"Adventure, Comedy, Family, Romance","English, Spanish",2.0,False,PG,08-Dec-06,90 min,07-Aug-07,"9,592",66.0,774.0,158147.0,32.0,5.2/10,29%,43/100,0,1,3
+Almost Famous ,USA,"Adventure, Comedy, Drama, Music","English, French",1.0,False,R,22-Sep-00,122 min,13-Mar-01,"2,34,836",907.0,5602.0,2363572.0,119.0,7.9/10,89%,90/100,1,52,103
+"Danse: The Paris Opera Ballet, La ","France, USA",Documentary,French,,False,,04-Nov-09,159 min,28-Jul-14,496,,,,,7.4/10,87%,0,0,0,7
+"Samaritan, The ",Canada,"Crime, Drama, Thriller",English,2.0,True,R,20-Apr-12,90 min,25-Sep-12,"9,070",41.0,168.0,285699.0,24.0,5.6/10,26%,37/100,0,0,4
+Megamind ,USA,"Animation, Action, Comedy, Family, Sci-Fi",English,2.0,False,PG,05-Nov-10,95 min,25-Feb-11,"2,07,827",,,,,7.3/10,72%,63/100,0,2,16
+Collateral Damage ,"USA, Mexico","Action, Drama, Thriller","English, Spanish",5.0,True,R,08-Feb-02,108 min,30-Jul-02,"68,590",5.0,146.0,96133.0,11.0,5.5/10,19%,33/100,0,0,0
+Ong-Bak: The Thai Warrior ,Thailand,"Action, Crime, Thriller","Thai, English",3.0,True,R,11-Feb-05,105 min,30-Aug-05,"67,328",236.0,1553.0,2055779.0,110.0,7.2/10,85%,69/100,0,2,5
+This Christmas ,USA,"Comedy, Drama, Romance",English,1.0,False,PG-13,21-Nov-07,117 min,11-Nov-08,"7,643",61.0,748.0,380832.0,26.0,6.3/10,55%,63/100,0,0,4
+"Waiting Room, The ",USA,Documentary,English,,False,NOT RATED,29-Apr-14,81 min,21-Oct-13,731,43.0,238.0,124358.0,7.0,7.1/10,100%,84/100,0,5,5
+Byzantium ,"UK, USA, Ireland","Drama, Fantasy, Horror, Thriller",English,2.0,True,R,31-May-13,118 min,29-Oct-13,"38,300",523.0,2970.0,1437079.0,241.0,6.5/10,66%,66/100,0,2,5
+About Elly ,"Iran, France","Drama, Mystery, Thriller","Persian, German",3.0,True,,06-Jun-09,119 min,31-Aug-15,"37,780",9.0,56.0,66736.0,2.0,8.0/10,99%,87/100,0,16,13
+"Ugly, Dirty and Bad ",Italy,"Comedy, Drama",Italian,4.0,True,,23-Sep-76,115 min,01-Nov-16,"6,786",23.0,167.0,204894.0,35.0,7.8/10,0,0,0,1,2
+Norwegian Wood ,Japan,"Drama, Romance",Japanese,2.0,True,NOT RATED,11-Dec-10,133 min,15-May-12,"10,050",284.0,1590.0,723913.0,35.0,6.4/10,73%,58/100,0,4,8
+Stolen ,USA,"Action, Crime, Thriller","English, Swedish",1.0,False,R,06-Sep-12,96 min,08-Jan-13,"41,330",1823.0,2950.0,3874334.0,1258.0,5.5/10,20%,43/100,0,0,0
+Home ,"Switzerland, France, Belgium",Drama,French,6.0,False,Not Rated,29-Oct-08,98 min,22-Jun-09,"3,599",9.0,18.0,40655.0,2.0,7.0/10,94%,67/100,0,7,5
+Thor: The Dark World ,USA,"Action, Adventure, Fantasy",English,9.0,True,PG-13,08-Nov-13,112 min,25-Feb-14,"5,40,844",11751.0,74257.0,19404530.0,2775.0,6.9/10,66%,54/100,0,3,21
+Kambakkht Ishq ,India,"Action, Comedy, Romance",Hindi,4.0,True,,03-Jul-09,142 min,17-Nov-09,"5,767",227.0,1169.0,1184378.0,157.0,3.9/10,0,0,0,0,0
+"Decoy Bride, The ",UK,"Comedy, Drama, Romance","English, Scottish Gaelic",3.0,True,PG,09-Mar-12,89 min,26-Jun-12,"9,986",218.0,1545.0,826553.0,104.0,6.2/10,23%,42/100,0,1,1
+That Evening Sun ,USA,Drama,English,2.0,True,PG-13,16-Mar-09,109 min,01-Apr-10,"2,489",11.0,87.0,90024.0,7.0,7.1/10,81%,75/100,0,11,4
+Offside ,Iran,"Comedy, Drama, Sport",Persian,2.0,False,PG,26-May-06,93 min,28-Aug-07,"6,786",18.0,171.0,100719.0,7.0,7.3/10,94%,85/100,0,5,4
+"Love, Marilyn ","USA, France","Documentary, Biography",English,11.0,True,Not Rated,16-May-13,107 min,30-Dec-13,"1,513",28.0,129.0,52938.0,6.0,7.3/10,65%,51/100,0,1,0
+Boat Trip ,"USA, Germany",Comedy,"English, Swedish, Spanish",2.0,False,R,21-Mar-03,94 min,30-Sep-03,"29,073",82.0,632.0,855068.0,70.0,4.9/10,7%,18/100,0,1,8
+"Magic of Belle Isle, The ",USA,"Comedy, Drama",English,1.0,False,PG,06-Jul-12,109 min,18-Sep-12,"16,223",,,,,7.0/10,30%,46/100,0,0,1
+Left Behind ,"USA, Canada","Action, Drama, Fantasy, Mystery, Thriller",English,4.0,True,PG-13,03-Oct-14,110 min,06-Jan-15,"33,433",,,,,3.1/10,1%,12/100,0,0,4
+"Ledge, The ","USA, Germany, Saudi Arabia","Drama, Romance, Thriller",English,1.0,False,R,26-May-11,101 min,27-Sep-11,"17,614",24.0,126.0,82473.0,11.0,6.5/10,14%,34/100,0,0,1
+Poolhall Junkies ,USA,"Comedy, Drama, Sport, Thriller",English,2.0,False,R,28-Feb-03,99 min,26-Aug-03,"9,285",510.0,3303.0,616178.0,180.0,7.0/10,33%,36/100,0,0,1
+"Family, The ","USA, France","Comedy, Crime, Thriller","English, French, Italian",3.0,True,R,13-Sep-13,111 min,17-Dec-13,"1,02,546",,,,,6.3/10,28%,42/100,0,0,1
+Rosenstrasse ,"Germany, Netherlands","Drama, War","German, English",2.0,False,PG-13,18-Sep-03,136 min,18-Jan-05,"2,155",0.0,0.0,3.0,1.0,6.8/10,55%,49/100,0,8,3
+Sleepless Night ,"France, Belgium, Luxembourg","Action, Crime, Thriller",French,4.0,False,Not Rated,11-May-12,103 min,23-Oct-12,"4,192",8.0,74.0,85765.0,9.0,6.7/10,97%,75/100,0,0,0
+Joyful Noise ,USA,"Comedy, Drama, Music",English,1.0,False,PG-13,13-Jan-12,118 min,01-May-12,"7,537",0.0,5.0,9131.0,0.0,5.7/10,31%,44/100,0,0,1
+Taking Lives ,USA,"Crime, Mystery, Thriller","English, French",3.0,True,R,19-Mar-04,103 min,17-Aug-04,"74,401",,,,,6.2/10,22%,38/100,0,0,4
+Best Worst Movie ,USA,"Documentary, Comedy, Drama","English, Italian",,False,Not Rated,14-Mar-09,93 min,16-Nov-10,"7,094",51.0,207.0,101711.0,5.0,7.3/10,95%,61/100,0,3,1
+"Constant Gardener, The ","UK, Germany, USA, China, Kenya","Drama, Mystery, Romance, Thriller","English, Italian, Swahili, German",2.0,True,R,31-Aug-05,129 min,10-Jan-06,"1,25,035",,,37252.0,,7.4/10,83%,82/100,1,35,68
+Kill the Irishman ,USA,"Biography, Crime, Drama",English,3.0,True,R,11-May-12,106 min,14-Jun-11,"41,434",946.0,2307.0,1809861.0,114.0,7.1/10,61%,50/100,0,0,1
+Secret Window ,USA,"Drama, Mystery, Thriller",English,2.0,True,PG-13,12-Mar-04,96 min,22-Jun-04,"1,69,697",0.0,,1261099.0,,6.6/10,46%,46/100,0,0,3
+"Woodsman, The ",USA,"Drama, Romance",English,3.0,True,R,21-Jan-05,87 min,12-Apr-05,"30,267",174.0,379.0,313523.0,36.0,7.2/10,88%,72/100,0,7,20
+Glitter ,USA,"Drama, Music, Romance",English,2.0,True,PG-13,21-Sep-01,104 min,15-Jan-02,"20,797",755.0,1414.0,905291.0,327.0,2.2/10,7%,14/100,0,3,10
+My Wife is an Actress ,France,"Comedy, Drama, Romance","French, English",1.0,False,R,14-Nov-01,95 min,10-Dec-02,"3,437",,,,,6.5/10,66%,57/100,0,1,2
+Drag Me to Hell ,USA,"Horror, Thriller","English, Spanish, Hungarian, Czech",2.0,False,PG-13,29-May-09,99 min,13-Oct-09,"1,77,195",23.0,397.0,175466.0,33.0,6.6/10,92%,83/100,0,7,22
+Liberal Arts ,USA,"Comedy, Drama, Romance",English,1.0,False,PG-13,05-Oct-12,97 min,18-Dec-12,"34,002",,,,,6.7/10,70%,55/100,0,0,7
+House of Flying Daggers ,"China, Hong Kong","Action, Adventure, Drama, Romance",Mandarin,3.0,False,PG-13,14-Jan-05,119 min,29-Mar-05,"1,02,172",4.0,81.0,59420.0,2.0,7.6/10,88%,89/100,1,19,68
+Rio 2 ,USA,"Animation, Adventure, Comedy, Family, Musical","English, Portuguese",6.0,True,G,11-Apr-14,101 min,15-Jul-14,"72,018",988.0,12184.0,4946289.0,1016.0,6.3/10,47%,49/100,0,1,22
+Calvary ,"Ireland, UK",Drama,English,1.0,False,R,11-Apr-14,102 min,09-Dec-14,"52,054",321.0,2152.0,1548732.0,170.0,7.4/10,90%,77/100,0,9,27
+Beyond the Sea ,"UK, Germany, USA","Biography, Drama, Music, Musical",English,2.0,False,PG-13,29-Dec-04,118 min,07-Jun-05,"13,859",15.0,126.0,104337.0,5.0,6.7/10,42%,46/100,1,0,5
+Lee Daniels' The Butler ,USA,"Biography, Drama",English,2.0,False,PG-13,16-Aug-13,132 min,14-Jan-14,"1,02,342",1029.0,3991.0,838739.0,189.0,7.2/10,71%,66/100,1,18,50
+House of 1000 Corpses ,USA,Horror,English,1.0,False,R,11-Apr-03,89 min,12-Aug-03,"69,378",0.0,6.0,8816.0,2.0,6.1/10,19%,31/100,0,4,8
+Simone ,USA,"Comedy, Drama, Sci-Fi",English,1.0,False,PG-13,23-Aug-02,117 min,21-Jan-03,"56,448",78.0,603.0,169387.0,23.0,6.1/10,51%,49/100,0,0,1
+Love Don't Cost a Thing ,USA,"Comedy, Romance, Drama",English,3.0,True,PG-13,12-Dec-03,100 min,27-Apr-04,"7,542",102.0,629.0,633963.0,48.0,5.2/10,13%,37/100,0,0,6
+One Missed Call ,"USA, Japan, Germany, UK","Horror, Mystery",English,3.0,True,PG-13,04-Jan-08,87 min,22-Apr-08,"29,560",474.0,3717.0,1135440.0,284.0,4.0/10,0%,24/100,0,0,2
+"Devil's Double, The ","Belgium, Netherlands","Biography, Drama, Thriller",English,3.0,True,R,08-Sep-11,109 min,22-Nov-11,"58,267",596.0,2315.0,1509529.0,126.0,7.1/10,55%,52/100,0,0,2
+Legion ,USA,"Action, Fantasy, Horror",English,2.0,False,R,22-Jan-10,100 min,11-May-10,"92,883",2216.0,2999.0,1686470.0,414.0,5.2/10,19%,32/100,0,0,0
+Thor ,USA,"Action, Adventure, Fantasy, Sci-Fi",English,8.0,True,PG-13,06-May-11,115 min,13-Sep-11,"6,84,247",2830.0,9669.0,5714541.0,415.0,7.0/10,77%,57/100,0,5,30
+Looper ,"USA, China","Action, Crime, Drama, Sci-Fi, Thriller","English, French",1.0,False,R,28-Sep-12,113 min,31-Dec-12,"4,99,881",1380.0,3984.0,1420738.0,111.0,7.4/10,93%,84/100,0,16,45
+"Hangover, The ","USA, Germany",Comedy,English,2.0,False,R,05-Jun-09,100 min,15-Dec-09,"6,70,009",,448.0,632285.0,32.0,7.7/10,78%,73/100,1,12,25
+Alex and Emma ,USA,"Comedy, Romance","English, French",1.0,False,PG-13,20-Jun-03,96 min,23-Dec-03,"12,479",1.0,17.0,20381.0,2.0,5.6/10,11%,32/100,0,0,1
+Cabin Fever ,USA,Horror,English,3.0,True,R,12-Sep-03,93 min,20-Jan-04,"69,778",125.0,752.0,792146.0,103.0,5.6/10,62%,56/100,0,2,12
+Amores Perros ,Mexico,"Drama, Thriller",Spanish,1.0,False,R,13-Apr-01,154 min,25-Sep-01,"2,06,515",422.0,2239.0,2779283.0,254.0,8.1/10,92%,83/100,1,54,22
+Metallica: Through the Never ,USA,Music,English,5.0,True,R,04-Oct-13,93 min,28-Jan-14,"15,506",,,,,7.2/10,79%,61/100,0,1,3
+Kings & Queen ,France,"Comedy, Drama, Romance","French, English, German",2.0,False,Unrated,22-Dec-04,150 min,15-Nov-05,"3,487",1.0,12.0,19279.0,1.0,7.2/10,86%,84/100,0,9,17
+"Hours, The ","USA, UK","Drama, Romance",English,2.0,True,PG-13,14-Feb-03,110 min,24-Jun-03,"1,16,746",111.0,1395.0,465700.0,49.0,7.6/10,80%,80/100,1,41,125
+Expelled: No Intelligence Allowed ,USA,Documentary,English,2.0,False,PG,18-Apr-08,90 min,21-Oct-08,"11,649",11880.0,6142.0,471618.0,2276.0,3.8/10,11%,20/100,0,2,0
+Pirates of the Caribbean: At World's End ,USA,"Action, Adventure, Fantasy","Mandarin, English",6.0,True,PG-13,25-May-07,169 min,04-Dec-07,"5,57,185",,,,,7.1/10,44%,50/100,1,20,44
+Rize ,"USA, UK","Documentary, Music",English,,False,PG-13,24-Jun-05,86 min,25-Oct-05,"2,993",7.0,67.0,16224.0,9.0,7.1/10,84%,74/100,0,1,3
+Reality ,"Italy, France","Comedy, Drama","Italian, Neapolitan, English, Latin",6.0,True,R,28-Sep-12,116 min,13-Aug-13,"4,562",36.0,259.0,216783.0,26.0,6.8/10,80%,76/100,0,12,19
+Cheaper by the Dozen 2 ,"USA, Canada","Adventure, Comedy, Family",English,4.0,True,PG,21-Dec-05,94 min,23-May-06,"50,581",29.0,142.0,180197.0,6.0,5.5/10,6%,34/100,0,1,5
+"United States of Leland, The ",USA,Drama,English,1.0,False,R,25-Mar-05,108 min,07-Sep-04,"21,860",,,47502.0,,7.1/10,34%,37/100,0,1,2
+Norbit ,USA,"Comedy, Romance",English,6.0,True,PG-13,09-Feb-07,102 min,05-Jun-07,"63,029",702.0,5329.0,3762602.0,451.0,4.0/10,9%,27/100,1,8,8
+Cowboys & Aliens ,"USA, India","Action, Sci-Fi, Thriller, Western","English, Apache languages",9.0,True,PG-13,29-Jul-11,119 min,06-Dec-11,"1,95,647",107.0,405.0,160328.0,31.0,6.0/10,45%,50/100,0,1,16
+"Forbidden Kingdom, The ","USA, China","Action, Adventure, Fantasy","English, Mandarin",1.0,False,PG-13,18-Apr-08,104 min,09-Sep-08,"96,683",15.0,170.0,189390.0,14.0,6.6/10,64%,57/100,0,0,5
+This Is the End ,USA,"Comedy, Fantasy","English, Spanish",7.0,True,R,12-Jun-13,107 min,01-Oct-13,"3,60,821",2281.0,16693.0,7954690.0,871.0,6.6/10,83%,67/100,0,10,20
+"Act of Killing, The ","UK, Denmark, Norway","Documentary, Crime","Indonesian, English",,False,Not Rated,08-Nov-12,117 min,03-Dec-13,"31,042",,,,,8.2/10,95%,90/100,1,53,41
+TMNT ,"Hong Kong, USA","Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",English,3.0,True,PG,23-Mar-07,103 min,07-Aug-07,"58,448",116.0,440.0,511076.0,30.0,6.3/10,34%,41/100,0,0,2
+Dealin' with Idiots ,USA,Comedy,English,2.0,False,Not Rated,12-Jul-13,88 min,12-Nov-13,"1,177",32.0,181.0,106230.0,25.0,5.4/10,37%,43/100,0,0,0
+"Expendables 3, The ","USA, France, Bulgaria, Germany","Action, Adventure, Thriller","English, Romanian, Spanish",5.0,True,PG-13,15-Aug-14,126 min,25-Nov-14,"1,56,699",3.0,52.0,40883.0,2.0,6.1/10,32%,35/100,0,2,5
+Paranormal Activity ,USA,"Horror, Mystery, Thriller",English,1.0,False,R,16-Oct-09,86 min,29-Dec-09,"2,08,228",19396.0,28891.0,32007774.0,4137.0,6.3/10,83%,68/100,0,3,12
+Masti ,India,"Comedy, Crime, Mystery, Thriller",Hindi,3.0,True,,09-Apr-04,166 min,30-Jun-04,"5,268",,,,,6.2/10,0,0,0,2,2
+When in Rome ,USA,"Comedy, Romance","English, Italian, Ukrainian",2.0,False,PG-13,29-Jan-10,91 min,15-Jun-10,"57,441",146.0,13045.0,5474855.0,740.0,5.6/10,16%,25/100,0,0,3
+Funny Games U.S. ,"USA, France, UK, Austria, Germany, Italy","Crime, Drama, Horror, Thriller",English,1.0,False,R,04-Apr-08,111 min,10-Jun-08,"83,593",3769.0,6863.0,4051179.0,739.0,6.5/10,51%,44/100,0,1,5
+Just Friends ,"Germany, USA, Canada","Comedy, Romance",English,1.0,False,PG-13,23-Nov-05,96 min,07-Mar-06,"96,529",262.0,7739.0,2229661.0,266.0,6.2/10,42%,47/100,0,0,3
+"Interrupters, The ",USA,"Documentary, Crime",English,1.0,False,Unrated,12-Aug-11,125 min,13-Feb-12,"3,321",96.0,796.0,305786.0,18.0,7.5/10,99%,86/100,0,10,17
+Just Wright ,USA,"Comedy, Romance, Sport",English,1.0,False,PG,14-May-10,100 min,14-Sep-10,"12,291",869.0,16715.0,3743650.0,351.0,5.9/10,45%,51/100,0,1,11
+Mickey ,USA,"Drama, Sport",English,1.0,False,PG,30-Apr-04,105 min,22-Mar-05,380,7.0,25.0,26316.0,0.0,6.7/10,38%,0,0,0,0
+Remember Me ,USA,"Drama, Romance","English, Chinese",1.0,False,PG-13,12-Mar-10,113 min,22-Jun-10,"1,29,540",,,,,7.1/10,27%,40/100,0,4,5
+Return to Never Land ,"USA, Canada, Australia","Animation, Adventure, Family, Fantasy",English,3.0,True,G,15-Feb-02,72 min,20-Aug-02,"16,581",109.0,478.0,308955.0,50.0,5.8/10,45%,49/100,0,0,4
+"Game Plan, The ",USA,"Comedy, Family, Sport",English,5.0,True,PG,28-Sep-07,110 min,22-Jan-08,"53,387",313.0,2787.0,1921803.0,132.0,6.2/10,29%,44/100,0,0,3
+Delgo ,USA,"Animation, Adventure, Comedy, Family, Fantasy, Romance",English,6.0,True,PG,12-Dec-08,94 min,04-Aug-09,"2,716",370.0,312.0,327540.0,488.0,4.4/10,12%,27/100,0,0,0
+C.O.G. ,USA,"Comedy, Drama","English, Spanish",2.0,False,R,20-Jan-13,88 min,25-Dec-13,"3,373",,,,,5.6/10,68%,60/100,0,1,2
+Atonement ,"UK, France, USA","Drama, Mystery, Romance, War","English, French",2.0,True,R,11-Jan-08,123 min,18-Mar-08,"2,28,611",11.0,65.0,58395.0,5.0,7.8/10,83%,85/100,1,50,146
+Mesrine: Killer Instinct ,"France, Canada, Italy","Action, Biography, Crime, Drama, Thriller","French, English, Arabic, Spanish",4.0,True,R,22-Oct-08,113 min,22-Feb-11,"29,951",9.0,46.0,33557.0,3.0,7.6/10,81%,71/100,0,8,12
+Superman Returns ,USA,"Action, Adventure, Sci-Fi","English, German, French",7.0,True,PG-13,28-Jun-06,154 min,28-Nov-06,"2,60,483",,,,,6.1/10,75%,72/100,1,12,40
+Main Prem Ki Diwani Hoon ,India,"Comedy, Drama, Musical, Romance","Hindi, English",1.0,False,Not Rated,27-Jun-03,197 min,17-Feb-04,"3,800",475.0,11473.0,6176242.0,1890.0,4.0/10,0,0,0,0,3
+"Hitcher, The ",USA,"Crime, Horror, Thriller",English,4.0,True,R,19-Jan-07,84 min,01-May-07,"38,355",55.0,186.0,155588.0,15.0,5.6/10,21%,28/100,0,2,2
+Nine Lives ,USA,Drama,"English, Spanish, American Sign Language",1.0,False,R,02-Sep-05,115 min,14-Feb-06,"6,294",26.0,109.0,172334.0,9.0,6.8/10,75%,80/100,0,9,10
+"Perfect Score, The ","USA, Germany","Comedy, Crime",English,5.0,True,PG-13,30-Jan-04,93 min,29-Jun-04,"22,250",,,114593.0,,5.7/10,16%,35/100,0,0,1
+SuperBabies: Baby Geniuses 2 ,"Germany, UK, USA","Comedy, Family, Sci-Fi",English,2.0,True,PG,27-Aug-04,88 min,04-Jan-05,"28,698",,,,,2.0/10,0%,9/100,0,0,13
+Torque ,USA,"Action, Comedy, Crime",English,1.0,False,PG-13,16-Jan-04,84 min,18-May-04,"25,812",30.0,360.0,260885.0,40.0,4.1/10,23%,41/100,0,0,4
+Herman's House ,"USA, Canada, UK","Documentary, Crime",English,,False,Not Rated,02-Mar-12,80 min,08-Jul-13,158,19.0,120.0,49924.0,11.0,6.3/10,88%,73/100,0,2,4
+Minority Report ,USA,"Action, Crime, Mystery, Sci-Fi, Thriller","English, Swedish",3.0,True,PG-13,21-Jun-02,145 min,17-Dec-02,"4,70,556",,,,,7.6/10,91%,80/100,1,19,85
+"Midnight Meat Train, The ",USA,"Horror, Mystery",English,2.0,True,R,07-Aug-08,100 min,17-Feb-09,"55,243",192.0,715.0,504518.0,57.0,6.1/10,72%,58/100,0,2,6
+Protector ,"Czech Republic, Germany","Drama, Romance","Czech, German",3.0,True,NOT RATED,05-Aug-11,98 min,09-Jan-12,756,,,,,7.2/10,63%,49/100,0,8,5
+O ,USA,"Drama, Romance, Thriller",English,2.0,True,R,31-Aug-01,95 min,19-Feb-02,"18,508",133.0,601.0,378183.0,58.0,6.1/10,64%,53/100,0,1,1
+Young Goethe in Love ,Germany,"Drama, Romance",German,3.0,True,Not Rated,14-Oct-10,102 min,24-Apr-12,"2,546",11.0,353.0,89815.0,9.0,6.7/10,65%,55/100,0,4,7
+Grand Illusion ,France,"Drama, War","French, German, English, Russian",2.0,False,Not Rated,12-Sep-38,113 min,24-Mar-98,"30,844",40.0,395.0,226089.0,25.0,8.1/10,97%,0,1,6,1
+Harrison's Flowers ,France,"Drama, Romance, War","English, French, Serbian, Croatian",5.0,True,R,15-Mar-02,121 min,21-Jan-03,"5,836",17.0,17.0,43244.0,17.0,7.2/10,49%,49/100,0,3,1
+R100 ,Japan,"Comedy, Drama","Japanese, English",5.0,True,Unrated,23-Jan-15,99 min,10-Mar-15,"2,108",12.0,243.0,57678.0,15.0,6.1/10,77%,57/100,0,1,4
+Humpday ,USA,"Comedy, Drama, Romance",English,1.0,False,R,16-Sep-09,94 min,17-Nov-09,"5,160",4.0,19.0,12002.0,4.0,6.0/10,79%,74/100,0,6,5
+"Bird of the Air, A ",USA,"Drama, Romance",English,2.0,True,PG-13,23-Sep-11,108 min,10-Apr-12,"1,052",30.0,214.0,106537.0,8.0,6.6/10,30%,42/100,0,0,0
+Aeon Flux ,"USA, Germany, Brazil, Italy","Action, Adventure, Sci-Fi, Thriller",English,3.0,True,PG-13,02-Dec-05,93 min,25-Apr-06,"1,19,367",148.0,1499.0,994056.0,127.0,5.5/10,9%,36/100,0,0,4
+Like Dandelion Dust ,USA,Drama,English,3.0,True,PG-13,24-Sep-10,100 min,25-Jan-11,"2,627",0.0,5.0,4165.0,0.0,7.0/10,82%,0,0,19,0
+Post Mortem ,"Chile, Germany, Mexico",Drama,Spanish,3.0,True,Not Rated,11-Apr-12,98 min,21-Aug-12,"1,847",3.0,29.0,15914.0,4.0,6.6/10,88%,72/100,0,4,4
+Tron: Legacy ,USA,"Action, Adventure, Fantasy, Sci-Fi",English,8.0,True,PG,17-Dec-10,125 min,05-Apr-11,"2,95,831",4410.0,26836.0,12649601.0,1164.0,6.8/10,50%,49/100,1,10,49
+"Switch, The ",USA,"Comedy, Drama, Romance",English,2.0,True,PG-13,20-Aug-10,101 min,15-Mar-11,"90,596",,,,,6.1/10,51%,52/100,0,1,2
+MirrorMask ,"UK, USA","Adventure, Fantasy",English,3.0,True,PG,03-Mar-06,101 min,10-Jan-06,"21,680",0.0,,279472.0,,6.9/10,54%,55/100,0,5,2
+Water ,"Canada, India","Drama, Romance","Hindi, Sanskrit",2.0,False,PG-13,26-May-06,117 min,29-Aug-06,"13,669",161.0,1973.0,1530137.0,270.0,7.8/10,90%,77/100,1,17,14
+Spinning Plates ,USA,Documentary,English,1.0,False,NOT RATED,25-Oct-13,93 min,11-Feb-14,880,12.0,228.0,111610.0,8.0,7.2/10,85%,65/100,0,5,0
+Secretariat ,USA,"Biography, Drama, Family, History, Sport",English,2.0,True,PG,08-Oct-10,123 min,25-Jan-11,"24,356",288.0,3014.0,1937541.0,126.0,7.2/10,63%,61/100,0,3,6
+I'll Sleep When I'm Dead ,"UK, USA","Crime, Drama, Mystery, Thriller",English,1.0,False,R,30-Apr-04,103 min,16-Nov-04,"8,049",5.0,25.0,51870.0,2.0,5.8/10,44%,56/100,0,0,1
+"Pretty One, The ",USA,"Comedy, Drama",English,1.0,False,R,20-Apr-13,90 min,03-Jun-14,"8,801",291.0,12233.0,2787634.0,238.0,6.3/10,50%,53/100,0,2,2
+Uncle Boonmee Who Can Recall His Past Lives ,"Thailand, UK, France, Germany, Spain, Netherlands","Drama, Fantasy","Thai, French, Lao",2.0,True,Not Rated,01-Sep-10,114 min,12-Jul-11,"11,526",176.0,1065.0,471622.0,36.0,6.7/10,89%,87/100,0,10,20
+Jackass: The Movie ,USA,"Documentary, Action, Comedy",English,19.0,False,R,25-Oct-02,87 min,25-Mar-03,"76,497",4.0,30.0,60190.0,1.0,6.6/10,49%,42/100,0,1,7
+"Promotion, The ",USA,Comedy,"English, Spanish",1.0,False,R,13-Jun-08,86 min,02-Sep-08,"17,508",,,,,5.7/10,53%,51/100,0,0,0
+X-Men ,USA,"Action, Adventure, Sci-Fi",English,3.0,True,PG-13,14-Jul-00,104 min,21-Nov-00,"5,35,683",34.0,1571.0,696719.0,75.0,7.4/10,81%,64/100,0,13,26
+Death Sentence ,USA,"Action, Crime, Thriller",English,2.0,True,R,31-Aug-07,105 min,08-Jan-08,"66,197",255.0,1565.0,722680.0,59.0,6.8/10,21%,36/100,0,0,3
+In Secret ,"Serbia, Hungary, USA","Crime, Drama, Thriller",English,3.0,True,R,03-Apr-14,107 min,20-May-14,"7,024",53.0,157.0,55378.0,3.0,6.2/10,40%,47/100,0,0,1
+Sex Drive ,USA,"Adventure, Comedy, Romance",English,3.0,True,R,17-Oct-08,109 min,24-Feb-09,"79,758",1037.0,4976.0,4268340.0,1059.0,6.5/10,45%,49/100,0,0,0
+"Farewell, My Queen ","France, Spain","Drama, History, Romance","French, English, German, Italian",3.0,True,R,21-Mar-12,100 min,15-Jan-13,"7,507",0.0,49.0,42596.0,5.0,6.3/10,93%,67/100,0,6,12
+Daylight ,USA,"Horror, Thriller",English,4.0,False,,15-Jul-11,75 min,24-Apr-12,169,,,,,5.3/10,91%,72/100,0,0,0
+"Curse of the Jade Scorpion, The ","USA, Germany","Comedy, Crime, Mystery, Romance","English, French",1.0,False,PG-13,24-Aug-01,103 min,29-Jan-02,"35,648",3.0,22.0,9089.0,1.0,6.8/10,46%,52/100,0,1,1
+"Little Traitor, The ","Israel, USA",Drama,"Hebrew, English",2.0,True,PG,02-Apr-09,88 min,,758,10.0,19.0,21064.0,2.0,7.0/10,41%,47/100,0,2,2
+Ice Age 4: Continental Drift ,USA,"Animation, Adventure, Comedy, Drama, Family, Fantasy",English,4.0,True,PG,13-Jul-12,88 min,11-Dec-12,"1,75,528",161.0,703.0,500538.0,63.0,6.6/10,37%,49/100,0,2,11
+Snowtown ,Australia,"Biography, Crime, Drama, Horror",English,5.0,True,Not Rated,19-May-11,119 min,14-Aug-12,"15,745",449.0,1172.0,876523.0,76.0,6.6/10,84%,66/100,0,22,22
+"Bobby Jones, Stroke of Genius ",USA,"Biography, Drama, Romance, Sport",English,5.0,True,PG,30-Apr-04,120 min,30-Nov-04,"3,537",,,44841.0,,6.7/10,26%,45/100,0,0,1
+"Ultimate Gift, The ",USA,"Drama, Family, Romance","English, Spanish",2.0,True,PG,09-Mar-07,114 min,21-Aug-07,"16,486",0.0,1534.0,1241155.0,58.0,7.4/10,32%,49/100,0,3,0
+Suite Française ,"UK, France, Canada, Belgium, USA","Drama, Romance, War","English, German, French, Latin",3.0,True,,13-Mar-15,107 min,,"19,699",75.0,401.0,292760.0,31.0,7.0/10,76%,63/100,1,0,2
+Twice Born ,"Italy, Spain","Drama, Romance, War","English, Italian, Bosnian",3.0,True,R,06-Dec-13,127 min,25-Feb-14,"14,658",63.0,445.0,258854.0,28.0,7.4/10,17%,34/100,0,0,7
+Two Lovers ,"USA, France","Drama, Romance",English,2.0,False,R,20-Mar-09,110 min,30-Jun-09,"33,923",6.0,71.0,117310.0,7.0,7.0/10,82%,74/100,0,3,17
+"Man, The ","USA, Germany","Action, Comedy, Crime",English,5.0,True,PG-13,09-Sep-05,83 min,17-Jan-06,"23,865",58.0,369.0,371454.0,28.0,5.6/10,12%,33/100,0,1,1
+Alex Cross ,"USA, France","Action, Crime, Mystery, Thriller","English, German",3.0,True,PG-13,19-Oct-12,101 min,05-Feb-13,"30,926",,,,,5.1/10,12%,30/100,0,0,4
+Fugitive Pieces ,"Greece, Canada","Adventure, Drama, War","English, Greek, Yiddish, German",2.0,True,R,09-May-08,104 min,14-Oct-08,"2,204",0.0,9.0,7111.0,1.0,7.1/10,68%,60/100,0,7,14
+We Bought a Zoo ,USA,"Comedy, Drama, Family","English, Spanish",3.0,True,PG,23-Dec-11,124 min,03-Apr-12,"1,26,986",67.0,341.0,248874.0,23.0,7.1/10,64%,58/100,0,1,8
+Defiance ,USA,"Action, Drama, History, Thriller, War","English, German, Russian",3.0,True,R,16-Jan-09,137 min,02-Jun-09,"1,30,156",,,997817.0,,7.2/10,57%,58/100,1,2,4
+New York Stories ,USA,"Comedy, Drama, Romance",English,4.0,False,PG,10-Mar-89,124 min,08-Apr-03,"15,642",,,112972.0,,6.4/10,73%,0,0,1,0
+Tyler Perry's The Family That Preys ,USA,Drama,English,1.0,False,PG-13,12-Sep-08,111 min,13-Jan-08,"6,427",31.0,3418.0,682163.0,113.0,5.5/10,52%,49/100,0,3,7
+Walk of Shame ,USA,Comedy,"English, Hebrew",1.0,False,R,01-May-14,95 min,17-Jun-14,"48,194",543.0,10308.0,4993410.0,406.0,6.0/10,12%,25/100,0,0,0
+Nothing to Declare ,France,Comedy,"French, English",2.0,False,Not Rated,02-Feb-11,108 min,,"11,967",2.0,50.0,39842.0,4.0,6.4/10,0,0,0,0,0
+Rebirth ,USA,Documentary,English,,False,,31-Aug-11,105 min,06-Sep-11,147,8.0,23.0,7821.0,0.0,7.5/10,92%,76/100,0,1,1
+Nowhere Boy ,"UK, Canada","Biography, Drama, Music, Romance",English,1.0,True,R,15-Oct-10,98 min,25-Jan-11,"32,854",,,,,7.1/10,80%,67/100,1,6,18
+Crazy Love ,USA,"Documentary, Romance",English,1.0,False,PG-13,01-Jun-07,92 min,16-Oct-07,"2,309",14.0,167.0,117910.0,10.0,7.1/10,78%,69/100,0,5,5
+Love Me If You Dare ,"France, Belgium","Comedy, Drama, Romance",French,1.0,False,R,28-May-04,93 min,19-Oct-04,"63,190",,,247808.0,,7.7/10,44%,45/100,0,5,2
+Wah-Wah ,"UK, France, South Africa","Comedy, Drama",English,1.0,False,R,02-Jun-06,120 min,21-Nov-06,"2,801",,,,,6.9/10,53%,61/100,0,0,5
+Jack and Diane ,USA,"Drama, Horror, Romance",English,1.0,False,R,20-Apr-12,110 min,07-Jan-13,"2,541",335.0,1665.0,1050205.0,332.0,4.5/10,12%,45/100,0,0,2
+Pandora's Box ,USA,"Romance, Thriller",English,4.0,True,R,27-Sep-02,103 min,24-Dec-02,595,0.0,,133531.0,,5.0/10,0,0,0,1,1
+"Rover, The ","Australia, USA","Action, Crime, Drama, Sci-Fi, Thriller","English, Chinese",3.0,True,R,20-Jun-14,103 min,23-Sep-14,"40,696",172.0,1428.0,605983.0,105.0,6.4/10,66%,64/100,0,3,19
+"Secret of Kells, The ","France, Belgium, Ireland, Netherlands, USA, Denmark, Brazil, Germany, Austria, Hungary","Animation, Adventure, Family, Fantasy","English, Irish",2.0,True,Not Rated,22-Jun-16,75 min,05-Oct-10,"28,288",600.0,7647.0,1237566.0,114.0,7.7/10,91%,81/100,1,7,5
+Appaloosa ,USA,"Crime, Drama, Romance, Western","English, Apache languages, Spanish",3.0,True,R,03-Oct-08,115 min,13-Jan-09,"55,650",55.0,216.0,253518.0,17.0,6.8/10,77%,64/100,0,4,0
+Caramel ,"France, Lebanon","Comedy, Drama, Romance","Arabic, French",5.0,True,PG,09-Aug-07,95 min,17-Jun-08,"11,611",0.0,22.0,21585.0,12.0,7.1/10,92%,70/100,0,5,7
+Mission: Impossible III ,"USA, Germany, China, Italy","Action, Adventure, Thriller","English, Italian, Mandarin, Cantonese, German, Czech",4.0,False,PG-13,05-May-06,126 min,30-Oct-06,"3,06,656",,,419902.0,,6.9/10,70%,66/100,0,7,14
+Centurion ,"UK, France, USA","Action, Adventure, Drama, History, Thriller, War","English, Scottish Gaelic",1.0,False,R,30-Jul-10,97 min,02-Nov-10,"74,141",,1836.0,4193630.0,319.0,6.4/10,61%,62/100,0,0,1
+Another Gay Movie ,USA,"Comedy, Romance",English,3.0,True,Not Rated,03-May-07,92 min,21-Nov-06,"8,452",616.0,3529.0,3381129.0,588.0,5.0/10,40%,37/100,0,2,1
+Tim's Vermeer ,USA,"Documentary, History","English, Dutch",2.0,False,PG-13,03-Oct-13,80 min,09-Jun-14,"7,265",103.0,1215.0,323246.0,31.0,7.8/10,90%,76/100,1,1,5
+Garden State ,USA,"Comedy, Drama, Romance","English, Klingon",1.0,False,R,20-Aug-04,102 min,28-Dec-04,"2,01,008",959.0,5824.0,2433423.0,181.0,7.5/10,86%,67/100,0,13,38
+Joshua ,USA,"Drama, Horror, Thriller",English,2.0,False,R,13-Jul-07,106 min,28-Feb-06,"11,379",427.0,887.0,554492.0,75.0,5.9/10,62%,69/100,0,5,6
+"Closet, The ",France,Comedy,French,2.0,True,R,10-Aug-01,84 min,13-Nov-01,"15,595",14.0,99.0,122468.0,5.0,7.0/10,85%,72/100,0,1,0
+"Great Gatsby, The ","Australia, USA","Drama, Romance",English,3.0,True,PG-13,10-May-13,143 min,27-Aug-13,"4,33,065",2631.0,14414.0,3987566.0,280.0,7.3/10,48%,55/100,1,47,83
+Rock of Ages ,USA,"Comedy, Drama, Musical, Romance",English,4.0,True,PG-13,15-Jun-12,123 min,09-Oct-12,"69,835",2.0,14.0,20137.0,3.0,5.9/10,42%,47/100,0,1,10
+"Ruins, The ","USA, Germany, Australia",Horror,"English, Maya, Spanish, Greek, German",2.0,True,R,04-Apr-08,90 min,08-Jul-08,"65,997",,,,,5.9/10,48%,44/100,0,0,6
+Che: Part One ,"France, Spain, USA","Biography, Drama, History, War","Spanish, English",2.0,True,Not Rated,24-Jan-09,134 min,14-Jul-09,"42,171",1547.0,2891.0,894594.0,152.0,7.2/10,67%,0,0,4,12
+"Prince & Me, The ","USA, Czech Republic","Comedy, Family, Romance","English, Danish, German",5.0,True,PG,02-Apr-04,111 min,10-Aug-04,"35,672",336.0,1537.0,1655748.0,52.0,5.9/10,28%,47/100,0,0,1
+Justin Bieber: Never Say Never ,USA,"Documentary, Music",English,,False,G,11-Feb-11,105 min,28-Jul-11,"74,966",13808.0,42960.0,15882782.0,31406.0,1.6/10,65%,52/100,0,2,7
+West Is West ,UK,"Comedy, Drama","English, Punjabi",1.0,True,,25-Feb-11,103 min,,"2,669",0.0,8.0,4931.0,0.0,6.5/10,64%,0,0,0,0
+21 Jump Street ,USA,"Action, Comedy, Crime",English,5.0,True,R,16-Mar-12,109 min,26-Jun-12,"4,78,143",,,,,7.2/10,84%,69/100,0,11,20
+"Sessions, The ",USA,"Biography, Comedy, Drama, Romance",English,2.0,False,R,16-Nov-12,95 min,12-Feb-13,"39,709",,,,,7.2/10,91%,79/100,1,18,63
+Rubber ,"France, Angola, USA","Comedy, Fantasy, Horror",English,1.0,False,R,10-Nov-10,82 min,07-Jun-11,"31,268",4028.0,13191.0,3920390.0,1483.0,5.8/10,68%,59/100,0,5,2
+Extreme Days ,USA,"Action, Adventure, Comedy, Drama, Romance, Sport",English,2.0,False,PG,28-Sep-01,93 min,29-Jan-02,"1,173",4.0,25.0,9304.0,1.0,5.9/10,43%,17/100,0,0,0
+"Pink Panther 2, The ",USA,"Action, Adventure, Comedy, Crime, Family, Mystery","English, French, Spanish, Italian",7.0,True,PG,06-Feb-09,92 min,23-Jun-09,"39,105",,,,,5.6/10,12%,36/100,0,0,3
+Bartleby ,USA,"Comedy, Drama, Mystery",English,3.0,True,PG-13,10-Mar-01,83 min,08-Jul-03,"1,701",,,49349.0,,6.4/10,35%,48/100,0,0,1
+Hellbound? ,Canada,Documentary,English,1.0,False,NOT RATED,21-Sep-12,84 min,08-Jul-13,257,2.0,6.0,3578.0,1.0,6.3/10,75%,53/100,0,0,0
+Digimon: The Movie ,"USA, Japan","Animation, Action, Adventure, Family, Sci-Fi",English,5.0,True,PG,06-Oct-00,82 min,06-Feb-01,"6,274",5.0,30.0,15268.0,2.0,6.0/10,24%,20/100,0,0,0
+Turn It Up ,USA,"Crime, Drama, Action, Music",English,4.0,True,R,06-Sep-00,86 min,20-Mar-01,"1,050",0.0,18.0,11276.0,0.0,4.4/10,8%,18/100,0,0,1
+"Divorce, Le ",USA,"Drama, Romance, Comedy","English, French",3.0,True,PG-13,29-Aug-03,117 min,27-Jan-04,"10,539",21.0,181.0,249396.0,17.0,4.9/10,36%,51/100,0,2,0
+"Tailor of Panama, The ","USA, Ireland","Comedy, Drama, Thriller","English, Spanish",4.0,True,R,30-Mar-01,109 min,11-Sep-01,"26,383",1.0,11.0,8045.0,1.0,6.2/10,77%,66/100,0,1,1
+"Sorcerer's Apprentice, The ",USA,"Action, Adventure, Family, Fantasy","English, Cantonese, Ukrainian",6.0,True,PG,14-Jul-10,109 min,30-Nov-10,"1,43,739",258.0,4648.0,2793501.0,281.0,6.1/10,40%,46/100,0,1,1
+Amira & Sam ,USA,"Comedy, Drama, Romance",English,1.0,False,Not Rated,30-Jan-15,90 min,04-May-15,"2,419",1252.0,3061.0,808372.0,1702.0,6.1/10,76%,58/100,0,10,1
+My Blueberry Nights ,"Hong Kong, China, France, USA","Drama, Romance",English,3.0,True,PG-13,28-Nov-07,95 min,01-Jul-08,"49,344",5.0,32.0,23910.0,9.0,6.7/10,46%,52/100,0,0,4
+Vampire Academy ,"USA, UK","Action, Comedy, Drama, Fantasy, Horror, Mystery, Thriller",English,2.0,True,PG-13,07-Feb-14,104 min,20-May-14,"49,272",4453.0,40720.0,12624804.0,3272.0,5.5/10,16%,31/100,0,0,2
+Emergo ,Spain,"Horror, Thriller",English,1.0,False,R,04-May-12,80 min,27-Aug-12,"10,552",,,,,5.1/10,17%,0,0,0,1
+"Walker, The ","USA, UK, Isle Of Man","Crime, Drama, Mystery",English,1.0,False,R,10-Aug-07,108 min,22-Apr-08,"5,019",1.0,41.0,71158.0,7.0,5.9/10,52%,51/100,0,1,0
+Johnson Family Vacation ,USA,Comedy,English,2.0,False,PG-13,07-Apr-04,97 min,10-Aug-04,"6,797",0.0,21.0,13253.0,4.0,4.4/10,6%,29/100,0,0,3
+"Way Back, The ","USA, United Arab Emirates, Poland, India","Adventure, Drama, History","English, Russian, Polish",3.0,True,PG-13,21-Jan-11,133 min,22-Apr-11,"1,01,950",,,,,7.3/10,74%,66/100,1,3,4
+Chocolat ,"France, West Germany, Cameroon",Drama,"French, English, Hausa",2.0,False,PG-13,01-May-89,105 min,24-Jul-01,"2,402",0.0,3.0,2224.0,1.0,7.4/10,70%,0,0,1,3
+I Am Ali ,"UK, USA","Documentary, Biography, Sport",English,1.0,False,PG,28-Nov-14,111 min,11-Nov-14,"2,919",106.0,1350.0,306992.0,29.0,7.2/10,61%,55/100,0,0,2
+Detention of the Dead ,USA,"Comedy, Horror",English,2.0,True,Not Rated,27-Apr-12,87 min,23-Jul-13,"2,395",81.0,585.0,286270.0,68.0,4.6/10,57%,0,0,0,0
+Kinky Boots ,"USA, UK","Comedy, Drama, Music",English,2.0,False,PG-13,26-May-06,107 min,05-Sep-06,"16,770",41.0,674.0,104416.0,34.0,7.1/10,56%,57/100,1,1,6
+"Lord of the Rings: The Two Towers, The ","New Zealand, USA","Adventure, Drama, Fantasy","English, Sindarin, Old English",5.0,True,PG,18-Dec-02,179 min,26-Aug-03,"13,55,308",542.0,4831.0,1050440.0,111.0,8.7/10,95%,87/100,1,118,137
+"Family Stone, The ",USA,"Comedy, Drama, Romance","English, American Sign Language",1.0,False,PG-13,16-Dec-05,103 min,02-May-06,"56,570",140.0,905.0,1138523.0,66.0,6.3/10,52%,56/100,1,4,7
+Tyler Perry's Madea's Big Happy Family ,USA,"Comedy, Drama",English,2.0,True,PG-13,22-Apr-11,106 min,30-Aug-11,"6,997",,,,,4.7/10,37%,45/100,0,1,1
+Roman de gare ,France,Drama,French,3.0,False,R,23-May-08,103 min,01-Mar-09,"2,296",0.0,2.0,1392.0,0.0,7.2/10,88%,71/100,0,1,2
+Simon & the Oaks ,"Sweden, Denmark, Germany, Norway",Drama,"Swedish, German, Hebrew, English",4.0,True,Not Rated,09-Dec-11,122 min,06-May-14,"2,634",40.0,345.0,83400.0,20.0,6.5/10,53%,62/100,0,4,12
+Nymphomaniac: Volume II ,"Denmark, Germany, Belgium, UK, France, Sweden",Drama,English,1.0,False,Not Rated,20-Mar-14,124 min,,"79,078",173.0,1516.0,1566992.0,350.0,6.7/10,60%,60/100,0,14,26
+Twelve ,"USA, France","Action, Crime, Drama, Thriller",English,2.0,True,R,06-Aug-10,93 min,28-Dec-10,"11,517",79.0,495.0,368880.0,49.0,5.7/10,3%,22/100,0,0,1
+Anonymous ,"UK, Germany, USA","Drama, Thriller","English, French, Italian, Greek,  Ancient (to 1453)",1.0,False,PG-13,28-Oct-11,130 min,07-Feb-12,"37,888",2249.0,7846.0,4620648.0,766.0,6.9/10,46%,50/100,1,7,8
+Happy New Year ,India,"Action, Comedy, Music",Hindi,3.0,False,Not Rated,24-Oct-14,180 min,,"31,513",2209.0,18881.0,4636566.0,3522.0,5.1/10,47%,0,0,11,38
+"Trotsky, The ",Canada,"Comedy, Drama","English, French, Russian, Hebrew, German",1.0,False,Not Rated,05-May-10,120 min,14-Dec-10,"5,492",1.0,19.0,14793.0,1.0,6.8/10,79%,59/100,0,9,7
+Ip Man: The Final Fight ,Hong Kong,"Action, Biography, Drama",Cantonese,1.0,True,PG-13,28-Mar-13,100 min,12-Nov-13,"9,647",8.0,85.0,75126.0,7.0,6.2/10,67%,55/100,0,3,6
+"Last Castle, The ",USA,"Action, Drama, Thriller",English,3.0,True,R,19-Oct-01,131 min,05-Mar-02,"65,537",76.0,394.0,408748.0,20.0,6.9/10,52%,43/100,0,1,4
+"Glimpse Inside the Mind of Charles Swan III, A ",USA,Comedy,"English, Russian, Spanish",1.0,False,R,14-Mar-13,86 min,14-May-13,"4,614",209.0,1322.0,506495.0,163.0,4.8/10,16%,28/100,0,0,1
+Survival of the Dead ,"USA, Canada","Comedy, Drama, Horror, Thriller",English,1.0,False,R,06-May-10,90 min,30-Apr-10,"19,322",53.0,213.0,146939.0,38.0,4.9/10,30%,43/100,0,0,2
+Winter's Bone ,USA,"Drama, Mystery",English,3.0,True,R,16-Jul-10,100 min,26-Oct-10,"1,27,724",511.0,2251.0,2233358.0,107.0,7.2/10,94%,90/100,1,63,120
+"Sapphires, The ",Australia,"Biography, Comedy, Drama, Music, Romance","English, Aboriginal",3.0,True,PG-13,09-Aug-12,103 min,06-Aug-13,"12,174",370.0,1610.0,802164.0,77.0,7.0/10,91%,67/100,0,26,25
+Inside Llewyn Davis ,"USA, UK, France","Drama, Music",English,2.0,False,R,10-Jan-14,104 min,11-Mar-14,"1,24,010",0.0,4.0,9821.0,1.0,7.5/10,92%,93/100,1,47,169
+Beasts of the Southern Wild ,USA,"Adventure, Drama, Fantasy",English,3.0,True,PG-13,05-Jul-12,93 min,04-Dec-12,"77,436",99.0,1563.0,352791.0,44.0,7.3/10,87%,86/100,1,92,123
+Before Midnight ,"USA, Greece","Drama, Romance","English, Greek, French",5.0,True,R,14-Jun-13,109 min,22-Oct-13,"1,22,810",353.0,2720.0,1133504.0,140.0,7.9/10,97%,94/100,1,21,59
+Intruders ,"USA, UK, Spain","Fantasy, Horror, Thriller","English, Spanish",2.0,True,R,07-Oct-11,100 min,17-Jul-12,"19,311",0.0,23.0,41130.0,5.0,5.4/10,32%,45/100,0,1,5
+Standing in the Shadows of Motown ,USA,"Documentary, Music",English,3.0,True,PG,29-Nov-02,108 min,22-Apr-03,"3,173",,,,,7.8/10,91%,76/100,0,8,14
+My Brother the Devil ,UK,"Crime, Drama, Romance",English,1.0,False,Not Rated,09-Nov-12,111 min,24-Sep-13,"2,871",249.0,762.0,460801.0,78.0,6.6/10,90%,71/100,0,9,16
+Conan O'Brien Can't Stop ,USA,"Documentary, Comedy, Music",English,,False,R,18-Aug-11,89 min,13-Sep-11,"5,861",,,46855.0,,7.0/10,81%,64/100,0,0,1
+In a Better World ,"Denmark, Sweden","Drama, Romance","Danish, Swedish, English, Arabic",4.0,True,R,26-Aug-10,118 min,30-Aug-11,"36,455",44.0,333.0,219965.0,15.0,7.6/10,78%,65/100,1,11,22
+Am Ende eiens viel zu kurzen Tages ,"Germany, Ireland","Animation, Drama",English,2.0,True,Not Rated,30-Aug-12,97 min,,"3,216",2084.0,22602.0,8285329.0,1265.0,7.1/10,91%,0,0,3,4
+"Muppets, The ",USA,"Adventure, Comedy, Family, Musical",English,3.0,True,PG,23-Nov-11,103 min,20-Mar-12,"82,697",716.0,5818.0,2734646.0,546.0,7.1/10,95%,75/100,1,16,43
+Man on a Mission: Richard Garriott's Road to the Stars ,USA,Documentary,English,,False,NOT RATED,14-Mar-10,83 min,,115,0.0,2.0,579.0,0.0,7.1/10,56%,53/100,0,3,0
+"Perfect Family, The ",USA,"Comedy, Drama",English,2.0,True,PG-13,24-Apr-11,84 min,26-Jun-12,"1,350",6.0,53.0,15579.0,1.0,5.7/10,48%,40/100,0,1,0
+"Jungle Book 2, The ","USA, Australia","Animation, Adventure, Family, Musical",English,6.0,True,G,14-Feb-03,72 min,10-Jun-03,"13,660",46.0,103.0,164087.0,27.0,5.4/10,19%,38/100,0,1,9
+Oz the Great and Powerful ,USA,"Adventure, Family, Fantasy",English,4.0,True,PG,08-Mar-13,130 min,11-Jun-13,"1,92,159",1213.0,8157.0,3119563.0,477.0,6.3/10,59%,44/100,0,5,31
+Back to the Future ,USA,"Adventure, Comedy, Sci-Fi",English,2.0,False,PG,03-Jul-85,116 min,17-Dec-02,"9,38,445",,,,,8.5/10,96%,87/100,1,19,25
+Repo Men ,"Canada, USA","Action, Crime, Sci-Fi, Thriller","English, Spanish",3.0,True,R,19-Mar-10,111 min,27-Jul-10,"96,210",1904.0,3955.0,4230888.0,768.0,6.3/10,21%,32/100,0,0,2
+Lonely Hearts ,"Germany, USA","Crime, Drama, Romance, Thriller",English,1.0,False,R,21-Oct-06,108 min,31-Jul-07,"19,418",106.0,686.0,536954.0,33.0,6.5/10,48%,60/100,0,0,1
+Revenge of the Electric Car ,USA,Documentary,English,2.0,False,PG-13,20-Jul-12,90 min,24-Jan-12,"1,685",254.0,930.0,247567.0,30.0,7.2/10,69%,63/100,0,1,2
+Narco Cultura ,"USA, Mexico",Documentary,"English, Spanish",,False,R,21-Mar-14,103 min,25-Feb-14,"2,306",94.0,337.0,154993.0,37.0,7.2/10,89%,74/100,0,1,2
+"Day After Tomorrow, The ",USA,"Action, Adventure, Sci-Fi, Thriller","English, Japanese, French, Arabic",3.0,True,PG-13,28-May-04,124 min,12-Oct-04,"3,84,621",20.0,81.0,120361.0,8.0,6.4/10,44%,47/100,1,5,12
+Piranha ,USA,"Comedy, Horror",English,2.0,False,R,20-Aug-10,88 min,11-Jan-11,"81,006",109.0,808.0,1142592.0,146.0,5.4/10,74%,53/100,0,2,12
+Wanderlust ,USA,"Comedy, Romance",English,2.0,False,R,24-Feb-12,98 min,19-Jun-12,"69,075",475.0,14100.0,6600476.0,825.0,5.6/10,59%,53/100,0,0,0
+Madison ,USA,"Drama, Sport",English,2.0,False,PG,22-Apr-05,99 min,13-Sep-05,"1,144",6.0,74.0,30343.0,6.0,6.5/10,28%,43/100,0,0,0
+"Man with the Iron Fists, The ","USA, Hong Kong",Action,"English, Mandarin",3.0,True,R,02-Nov-12,95 min,12-Feb-13,"58,175",452.0,1324.0,1132019.0,123.0,5.4/10,51%,51/100,0,0,4
+Shark Night 3D ,USA,"Horror, Thriller",English,2.0,False,PG-13,02-Sep-11,90 min,03-Jan-12,"23,179",1388.0,1268.0,1224881.0,690.0,4.0/10,19%,22/100,0,0,1
+Melancholia ,"Denmark, Sweden, France, Germany","Drama, Sci-Fi",English,1.0,False,R,26-May-11,135 min,13-Mar-12,"1,53,062",4115.0,14302.0,9292489.0,1349.0,7.2/10,79%,80/100,0,34,89
+"Fighting Temptations, The ",USA,"Comedy, Drama, Music, Romance",English,3.0,True,PG-13,19-Sep-03,123 min,03-Feb-04,"6,422",,,180478.0,,5.5/10,42%,53/100,0,4,11
+Lila Says ,"France, UK","Crime, Drama, Romance","French, Arabic",4.0,True,R,26-Jan-05,89 min,29-Nov-05,"4,189",,,,,7.0/10,68%,57/100,0,4,4
+"Gospel, The ",USA,"Drama, Music",English,1.0,False,PG,07-Oct-05,105 min,03-Jan-06,"1,905",6.0,50.0,34358.0,2.0,4.4/10,32%,46/100,0,0,4
+Olympus Has Fallen ,USA,"Action, Thriller","English, Korean",2.0,False,R,22-Mar-13,119 min,13-Aug-13,"2,35,025",6987.0,14843.0,8233604.0,1692.0,6.5/10,49%,41/100,0,1,5
+Willy Wonka & the Chocolate Factory ,"USA, East Germany, West Germany","Family, Fantasy, Musical","English, French, German, Italian",2.0,True,G,30-Jun-71,100 min,28-Aug-01,"1,60,713",9.0,58.0,30965.0,5.0,7.8/10,91%,67/100,1,2,2
+Country Strong ,USA,"Drama, Music",English,1.0,False,PG-13,07-Jan-11,117 min,12-Apr-11,"16,265",,,,,6.3/10,22%,45/100,1,1,7
+Down with Love ,"USA, Germany","Comedy, Romance",English,2.0,False,PG-13,16-May-03,101 min,07-Oct-03,"37,386",,,,,6.3/10,60%,52/100,0,4,8
+Love Actually ,"UK, USA, France","Comedy, Drama, Romance","English, Portuguese, French",1.0,False,R,14-Nov-03,135 min,27-Apr-04,"3,85,821",9.0,195.0,77971.0,13.0,7.6/10,63%,55/100,1,10,27
+Broken Embraces ,Spain,"Drama, Romance, Thriller","Spanish, English",1.0,False,R,15-Jan-10,127 min,16-Mar-10,"35,497",21.0,282.0,275442.0,9.0,7.2/10,81%,76/100,1,9,41
+Live Free or Die Hard ,"USA, UK","Action, Thriller","English, Italian, French",5.0,True,PG-13,27-Jun-07,128 min,20-Nov-07,"3,71,308",101.0,813.0,493233.0,46.0,7.1/10,82%,69/100,0,3,16
+Ill Manors ,UK,"Crime, Drama",English,1.0,False,Not Rated,06-Jun-12,121 min,,"9,649",525.0,1417.0,784337.0,95.0,7.1/10,79%,0,0,2,4
+"Lion King, The ",USA,"Animation, Adventure, Drama, Family, Musical","English, Swahili, Xhosa, Zulu",29.0,True,G,24-Jun-94,88 min,07-Oct-03,"8,38,220",799.0,3136.0,2118463.0,251.0,8.5/10,93%,83/100,1,33,29
+Good Neighbours ,Canada,"Drama, Thriller",English,2.0,True,R,29-Jul-11,99 min,27-Sep-11,"4,829",0.0,3.0,2272.0,0.0,5.9/10,67%,60/100,0,0,1
+"Last Ride, The ",USA,"Biography, Drama, Music",English,2.0,False,PG-13,22-Jun-12,102 min,04-Jun-13,738,73.0,315.0,221156.0,34.0,5.8/10,44%,45/100,0,0,0
+"Other Woman, The ",USA,"Comedy, Romance",English,1.0,False,PG-13,25-Apr-14,109 min,29-Jul-14,"1,22,868",,,,,6.0/10,26%,39/100,0,3,5
+Zoom ,USA,"Action, Adventure, Comedy, Family, Sci-Fi",English,4.0,True,PG,11-Aug-06,83 min,02-Sep-07,"17,204",,,360506.0,,4.3/10,3%,26/100,0,4,8
+"Smurfs, The ","USA, Belgium, Canada","Animation, Adventure, Comedy, Family, Fantasy",English,7.0,True,PG,29-Jul-11,103 min,02-Dec-11,"77,668",921.0,3739.0,3112069.0,1235.0,5.5/10,22%,30/100,0,2,8
+For a Woman ,France,Drama,French,1.0,False,,02-May-14,110 min,21-Oct-14,593,0.0,11.0,21623.0,1.0,6.5/10,89%,59/100,0,1,1
+Legend of the Fist: The Return of Chen Zhen ,"Hong Kong, China","Action, Drama, History","Mandarin, Cantonese, Japanese, English, French, German",4.0,True,R,21-Sep-10,106 min,14-Jun-11,"9,201",113.0,552.0,259958.0,18.0,6.3/10,46%,49/100,0,0,4
+Black Death ,"Germany, UK","Action, Adventure, Drama, History, Horror, Mystery","English, Latin",1.0,True,R,11-Jun-10,102 min,10-May-11,"40,851",151.0,266.0,723148.0,31.0,6.4/10,71%,71/100,0,3,7
+"Late Quartet, A ",USA,"Drama, Music",English,3.0,True,R,23-Nov-12,105 min,05-Feb-13,"12,931",,,,,7.1/10,76%,67/100,0,0,2
+Bug ,"USA, Germany","Drama, Thriller",English,2.0,True,R,25-May-07,102 min,25-Sep-07,"31,294",376.0,436.0,652765.0,109.0,6.1/10,61%,62/100,0,1,6
+"Case for Christ, The ",USA,Documentary,English,3.0,True,UNRATED,11-Sep-07,71 min,15-Aug-17,454,13.0,41.0,15511.0,8.0,6.3/10,58%,0,0,0,0
+Beverly Hills Chihuahua ,"USA, Mexico","Adventure, Comedy, Drama, Family, Romance",English,3.0,True,PG,03-Oct-08,91 min,03-Mar-09,"20,782",,2418.0,1116650.0,300.0,3.8/10,40%,41/100,0,2,7
+Rango ,USA,"Animation, Adventure, Comedy, Family, Western",English,4.0,True,PG,04-Mar-11,107 min,15-Jul-11,"2,16,004",2237.0,14770.0,11289560.0,1094.0,7.2/10,88%,75/100,1,45,24
+Tanner Hall ,USA,"Drama, Romance",English,2.0,False,R,15-Jan-15,96 min,06-Dec-11,"3,012",343.0,7947.0,2953159.0,403.0,5.8/10,16%,40/100,0,2,0
+Thank You for Smoking ,USA,"Comedy, Drama",English,2.0,True,R,14-Apr-06,92 min,03-Oct-06,"2,06,035",69.0,1181.0,350766.0,34.0,7.6/10,86%,71/100,1,12,30
+Angels Crest ,"Canada, UK",Drama,English,2.0,True,R,30-Dec-11,92 min,03-Apr-12,"1,745",,,13379.0,,5.8/10,22%,38/100,0,0,1
+"Wildest Dream, The ",USA,"Documentary, Adventure, Biography",English,4.0,False,PG,06-Aug-10,94 min,15-Mar-11,"2,160",84.0,367.0,133114.0,10.0,7.3/10,77%,57/100,0,2,1
+Twilight ,USA,"Drama, Fantasy, Romance",English,2.0,True,PG-13,21-Nov-08,122 min,21-Mar-09,"3,94,344",,,,,5.2/10,49%,56/100,0,29,15
+8 Million Ways to Die ,USA,"Action, Crime, Drama, Thriller","English, Spanish",3.0,True,R,25-Apr-86,115 min,,"4,034",10.0,74.0,38893.0,2.0,5.7/10,0%,29/100,0,0,1
+Eden ,France,"Biography, Drama, Music","French, English",2.0,False,R,19-Jun-15,131 min,19-Jan-16,"3,781",14.0,115.0,126896.0,7.0,6.4/10,82%,81/100,0,0,4
+Mother ,South Korea,"Crime, Drama, Mystery, Thriller",Korean,3.0,True,R,28-May-09,129 min,20-Jul-10,"37,301",6.0,68.0,40945.0,5.0,7.8/10,96%,79/100,0,37,43
+What Maisie Knew ,USA,Drama,English,3.0,True,R,03-May-13,99 min,13-Aug-13,"25,386",52.0,415.0,270278.0,21.0,7.5/10,86%,74/100,0,3,8
+Mystic River ,"USA, Australia","Crime, Drama, Mystery, Thriller",English,2.0,True,R,15-Oct-03,138 min,08-Jun-04,"3,88,084",432.0,1482.0,1741994.0,95.0,8.0/10,88%,84/100,1,53,142
+"Welcome Home, Roscoe Jenkins ",USA,"Comedy, Romance",English,1.0,False,PG-13,08-Feb-08,114 min,17-Jun-08,"12,607",8.0,72.0,137285.0,5.0,5.4/10,23%,46/100,0,0,0
+Mirrors ,"USA, Romania, Germany","Horror, Mystery",English,3.0,True,R,15-Aug-08,110 min,13-Jan-09,"97,128",,,,,6.2/10,15%,35/100,0,0,2
+Grind ,USA,"Adventure, Comedy, Sport",English,1.0,False,PG-13,15-Aug-03,105 min,27-Jan-04,"11,223",,,,,6.0/10,8%,30/100,0,0,0
+Escape Plan ,USA,"Action, Crime, Mystery, Sci-Fi, Thriller","English, German, Arabic, Urdu",3.0,True,R,18-Oct-13,115 min,04-Feb-14,"2,11,363",2003.0,14452.0,7359479.0,752.0,6.7/10,50%,49/100,0,0,2
+She's the Man ,"USA, Canada","Comedy, Romance, Sport",English,4.0,True,PG-13,17-Mar-06,105 min,18-Jul-06,"1,36,738",2354.0,16927.0,8381735.0,560.0,6.4/10,44%,45/100,0,2,5
+"Pink Panther, The ","USA, Czech Republic","Adventure, Comedy, Crime, Family, Mystery",English,6.0,True,PG,10-Feb-06,93 min,13-Jun-06,"75,454",101.0,797.0,340457.0,54.0,5.6/10,21%,38/100,0,1,8
+Wanted ,"USA, Germany","Action, Crime, Fantasy, Thriller",English,7.0,True,R,27-Jun-08,110 min,02-Dec-08,"3,40,231",70.0,863.0,711179.0,39.0,6.7/10,71%,64/100,1,4,20
+Wanted ,India,"Action, Crime, Thriller",Hindi,7.0,True,Not Rated,25-Sep-09,147 min,,"16,721",141.0,2280.0,1494264.0,291.0,6.6/10,0,0,0,0,3
+"Tale of Despereaux, The ","UK, USA","Animation, Adventure, Comedy, Family, Fantasy",English,4.0,True,G,19-Dec-08,93 min,07-Apr-09,"34,005",1.0,16.0,10004.0,3.0,6.1/10,57%,53/100,0,1,8
+I Smile Back ,USA,Drama,English,3.0,True,R,06-Nov-15,85 min,23-Feb-16,"4,635",23.0,273.0,205238.0,21.0,6.1/10,50%,59/100,0,1,7
+"Brave One, The ",USA,"Action, Crime, Drama, Thriller",English,5.0,True,R,14-Sep-07,122 min,05-Feb-08,"55,464",51.0,480.0,159698.0,16.0,6.8/10,43%,56/100,1,1,6
+Scary Movie 4 ,USA,Comedy,"English, Japanese",10.0,True,PG-13,14-Apr-06,83 min,15-Aug-06,"1,06,506",1765.0,18484.0,21553678.0,2974.0,5.1/10,36%,40/100,0,1,3
+"Secret, A ",France,"Drama, War","French, Yiddish, German, Hebrew",5.0,True,NOT RATED,03-Oct-07,105 min,10-Mar-09,"2,791",6.0,52.0,60083.0,7.0,6.8/10,80%,72/100,0,4,12
+Joker ,India,"Comedy, Family, Sci-Fi",Hindi,3.0,True,Not Rated,31-Aug-12,104 min,19-Aug-14,"4,530",12.0,160.0,211872.0,24.0,2.6/10,0%,0,0,4,1
+Ice Age ,USA,"Animation, Adventure, Comedy, Family, Fantasy",English,10.0,True,PG,15-Mar-02,81 min,26-Nov-02,"4,03,137",73.0,392.0,526444.0,49.0,7.5/10,77%,60/100,1,5,29
+"Duchess, The ","UK, Italy, France, USA","Biography, Drama, History, Romance",English,4.0,True,PG-13,10-Oct-08,110 min,27-Jan-09,"72,261",21.0,103.0,120618.0,7.0,6.9/10,61%,62/100,1,7,21
+Tangerines ,"Estonia, Georgia","Drama, War","Estonian, Russian, Georgian",4.0,False,Not Rated,17-Apr-15,87 min,21-Jul-15,"33,396",165.0,969.0,462413.0,17.0,8.2/10,88%,73/100,1,12,7
+Josie and the Pussycats ,"Canada, USA","Comedy, Music",English,5.0,True,PG-13,11-Apr-01,98 min,14-Aug-01,"20,495",211.0,566.0,331862.0,46.0,5.4/10,53%,47/100,0,0,5
+Sing Your Song ,USA,"Documentary, Biography, Music",English,,False,Not Rated,14-Apr-12,103 min,29-May-12,415,4.0,92.0,35785.0,5.0,7.5/10,95%,73/100,0,3,2
+35 and Ticking ,USA,"Comedy, Romance",English,,False,R,20-May-11,104 min,13-Sep-11,"1,350",67.0,420.0,420876.0,40.0,5.7/10,0,0,0,0,0
+Lovelace ,USA,"Biography, Drama",English,1.0,False,R,08-Aug-13,93 min,05-Nov-13,"35,991",586.0,6540.0,3445831.0,330.0,6.2/10,54%,51/100,0,1,3
+Amreeka ,"USA, United Arab Emirates, Canada, Kuwait, Jordan",Drama,"English, Arabic, French",1.0,False,PG-13,17-Jun-09,96 min,12-Jan-10,"3,299",82.0,314.0,126597.0,18.0,7.1/10,87%,73/100,0,9,18
+Basic ,"Germany, USA","Action, Crime, Drama, Mystery, Thriller",English,1.0,False,R,28-Mar-03,98 min,08-Jul-03,"56,083",15.0,167.0,275392.0,27.0,6.5/10,21%,34/100,0,0,3
+Tyler Perry's The Single Moms Club ,USA,"Comedy, Drama",English,1.0,False,PG-13,14-Mar-14,111 min,22-Jul-14,"5,293",222.0,8828.0,1428694.0,332.0,5.3/10,19%,31/100,0,0,2
+For Your Consideration ,USA,Comedy,"English, French",2.0,False,PG-13,22-Nov-06,86 min,20-Feb-07,"13,192",4.0,62.0,14121.0,2.0,6.3/10,52%,68/100,0,3,14
+Death at a Funeral ,USA,Comedy,English,1.0,False,R,16-Apr-10,92 min,10-Aug-10,"41,834",857.0,3343.0,1866682.0,431.0,5.7/10,42%,51/100,0,0,6
+"Master of Disguise, The ",USA,"Adventure, Comedy, Family, Fantasy",English,2.0,False,PG,02-Aug-02,80 min,28-Jan-03,"20,626",19.0,75.0,53942.0,24.0,3.3/10,1%,12/100,0,1,6
+Hot Fuzz ,"UK, France","Action, Comedy, Mystery",English,2.0,False,R,20-Apr-07,121 min,31-Jul-07,"4,26,144",847.0,9189.0,3602692.0,343.0,7.9/10,91%,81/100,0,2,9
+"Lot Like Love, A ",USA,"Comedy, Drama, Romance","English, American Sign Language",1.0,False,PG-13,22-Apr-05,107 min,23-Aug-05,"64,763",460.0,4469.0,3889044.0,130.0,6.6/10,41%,48/100,0,1,3
+Camp ,USA,Drama,English,3.0,False,PG-13,22-Feb-13,109 min,27-Aug-13,713,114.0,664.0,294956.0,53.0,6.9/10,0,0,0,1,1
+De Dana Dan ,India,"Comedy, Crime",Hindi,5.0,True,Not Rated,27-Nov-09,162 min,,"5,949",,,,,5.3/10,0,0,0,0,1
+Miss Potter ,"UK, USA, Isle Of Man","Biography, Drama",English,1.0,False,PG,09-Mar-07,88 min,19-Jun-07,"26,542",15.0,414.0,78729.0,5.0,7.0/10,67%,57/100,1,5,4
+Chain Letter ,USA,Horror,English,2.0,False,R,11-Nov-10,96 min,01-Feb-11,"4,767",61.0,97.0,161630.0,17.0,4.2/10,29%,0,0,0,0
+Bewitched ,USA,"Comedy, Fantasy, Romance","English, Spanish",3.0,False,PG-13,24-Jun-05,102 min,25-Oct-05,"65,251",25.0,157.0,148222.0,17.0,4.8/10,24%,34/100,0,2,13
+Brother ,Venezuela,"Drama, Family, Sport","Spanish, Spanish",2.0,False,NOT RATED,02-Jul-10,97 min,18-Dec-12,"2,297",12.0,31.0,33339.0,1.0,7.4/10,54%,0,0,10,3
+Elevator to the Gallows ,France,"Crime, Drama, Thriller","French, German",5.0,True,Not Rated,29-Jan-58,91 min,25-Apr-06,"18,175",1.0,29.0,17376.0,0.0,8.0/10,93%,94/100,0,1,0
+Charlie Bartlett ,USA,"Comedy, Drama, Romance",English,1.0,False,R,22-Feb-08,97 min,24-Jun-08,"60,635",8.0,37.0,28352.0,3.0,7.0/10,57%,54/100,0,1,0
+Heartless ,UK,"Drama, Fantasy, Horror",English,1.0,False,,19-Nov-10,114 min,12-Apr-11,"9,556",186.0,476.0,646092.0,38.0,6.0/10,77%,58/100,0,6,1
+Terribly Happy ,Denmark,"Drama, Horror, Mystery",Danish,3.0,True,Unrated,24-Oct-08,99 min,13-Jul-10,"4,912",,,,,6.9/10,89%,74/100,0,19,12
+K-19: The Widowmaker ,"UK, Germany, Canada, USA","Drama, History, Thriller, War","English, Russian",2.0,True,PG-13,19-Jul-02,138 min,10-Dec-02,"55,723",23.0,66.0,100211.0,5.0,6.7/10,61%,58/100,0,1,2
+Wild Grass ,"France, Italy","Drama, Romance",French,3.0,True,PG,04-Nov-09,104 min,26-Oct-10,"3,427",0.0,15.0,5689.0,0.0,6.3/10,67%,65/100,0,2,10
+Udaan ,India,Drama,Hindi,4.0,True,Not Rated,16-Jul-10,134 min,05-Oct-10,"38,560",86.0,1157.0,257590.0,50.0,8.2/10,0,0,0,13,21
+Far from Heaven ,"USA, France",Drama,English,1.0,False,PG-13,10-Jan-03,107 min,01-Apr-03,"41,179",34.0,140.0,106404.0,7.0,7.4/10,88%,84/100,1,101,91
+Rumor Has It... ,"USA, Germany, Australia","Comedy, Drama, Romance","English, Spanish",1.0,False,PG-13,25-Dec-05,97 min,09-May-06,"48,240",47.0,1020.0,355295.0,54.0,5.5/10,20%,35/100,0,0,0
+"Time Machine, The ","USA, United Arab Emirates","Action, Adventure, Sci-Fi",English,3.0,True,PG-13,08-Mar-02,96 min,23-Jul-02,"1,13,181",464.0,2830.0,1284729.0,163.0,5.9/10,29%,42/100,1,2,3
+Sex Tape ,USA,"Comedy, Romance","English, Ukrainian",4.0,True,R,18-Jul-14,94 min,21-Oct-14,"1,00,678",,,,,5.1/10,16%,36/100,0,2,3
+Battleship Potemkin ,Soviet Union,"Drama, History",Russian,1.0,False,Not Rated,24-Dec-25,66 min,07-Oct-98,"48,245",4.0,212.0,112956.0,15.0,8.0/10,100%,0,0,1,0
+Cake ,USA,Drama,"English, Spanish",1.0,True,R,23-Jan-15,102 min,21-Apr-15,"33,123",1089.0,11311.0,5459525.0,562.0,6.4/10,49%,49/100,1,5,7
+"Greatest Movie Ever Sold, The ",USA,"Documentary, Comedy",English,2.0,False,PG-13,24-Aug-11,90 min,23-Aug-11,"14,200",,,,,6.6/10,74%,66/100,0,1,5
+Walking on Sunshine ,"UK, USA, Italy","Comedy, Drama, Musical, Romance","English, Italian",1.0,False,Not Rated,27-Jun-14,97 min,07-Jul-15,"4,512",226.0,2006.0,1159111.0,199.0,5.4/10,32%,0,0,0,0
+Intouchables ,France,"Biography, Comedy, Drama","French, English",3.0,False,R,02-Nov-11,112 min,05-Mar-13,"6,78,477",32.0,605.0,327787.0,39.0,8.5/10,75%,57/100,1,35,39
+"Debt, The ","USA, UK, Hungary, Israel","Drama, Thriller","English, German, Russian",5.0,True,R,31-Aug-11,113 min,06-Dec-11,"61,080",0.0,3.0,18416.0,5.0,6.9/10,77%,65/100,0,13,5
+Diary of a Wimpy Kid ,"USA, UK","Comedy, Drama, Family","English, German",5.0,True,PG,19-Mar-10,94 min,03-Aug-10,"38,584",,,,,6.2/10,52%,56/100,0,5,9
+Adoration ,Canada,"Drama, Romance","English, French, Hebrew",1.0,False,R,24-Apr-09,100 min,30-May-09,"2,984",72.0,162.0,153186.0,16.0,6.3/10,63%,64/100,0,3,9
+"Mother, The ",UK,"Drama, Romance",English,1.0,False,R,18-Jun-04,112 min,12-Oct-04,"3,759",,,,,6.8/10,78%,72/100,1,2,12
+"Imposter, The ",UK,"Documentary, Biography, Crime","English, Spanish",,False,R,24-Aug-12,99 min,22-Jan-13,"42,147",88.0,846.0,574967.0,37.0,7.5/10,96%,77/100,1,11,30
+"Odd Life of Timothy Green, The ",USA,"Comedy, Drama, Family, Fantasy",English,2.0,True,PG,15-Aug-12,105 min,04-Dec-12,"42,683",93.0,5455.0,2669550.0,459.0,6.6/10,34%,47/100,0,1,8
+"Greatest Game Ever Played, The ","USA, Canada","Biography, Drama, History, Sport",English,2.0,True,PG,30-Sep-05,120 min,11-Apr-06,"25,797",58.0,333.0,325779.0,10.0,7.5/10,63%,55/100,0,0,3
+"I Love You, Man ",USA,"Comedy, Romance",English,3.0,True,R,20-Mar-09,105 min,11-Aug-09,"1,85,676",26.0,197.0,108986.0,7.0,7.0/10,83%,70/100,0,1,8
+"Passenger, The ","Italy, Spain, France","Drama, Thriller","English, Spanish, German, French",4.0,True,PG-13,09-Apr-75,126 min,25-Apr-06,"18,482",17.0,145.0,63746.0,2.0,7.6/10,91%,90/100,0,5,1
+Girlfight ,USA,"Drama, Sport","English, Spanish",1.0,False,R,06-Oct-00,110 min,27-Mar-01,"8,878",1.0,12.0,7110.0,0.0,6.8/10,87%,70/100,0,15,18
+"Cat in Paris, A ","France, Belgium","Animation, Adventure, Comedy, Crime, Family",French,3.0,True,PG,15-Dec-10,70 min,09-Oct-12,"9,752",139.0,1325.0,365052.0,38.0,6.9/10,83%,63/100,1,1,5
+Bloody Sunday ,"UK, Ireland","Drama, History, War",English,1.0,False,R,19-Apr-02,107 min,22-Apr-03,"22,081",,,226639.0,,7.7/10,92%,90/100,0,19,21
+"Orphanage, The ",Spain,"Drama, Horror, Mystery, Thriller",Spanish,1.0,True,R,11-Jan-08,105 min,22-Apr-08,"1,37,464",0.0,35.0,48210.0,4.0,7.5/10,87%,74/100,0,32,41
+"Promise, The ","China, South Korea, USA","Action, Drama, Fantasy",Mandarin,2.0,False,PG-13,05-May-06,121 min,18-Apr-07,"8,709",53.0,395.0,214341.0,32.0,5.6/10,31%,53/100,1,1,9
+Every Day ,USA,"Comedy, Drama, Romance",English,1.0,False,R,24-Apr-10,93 min,08-Mar-11,"3,184",0.0,15.0,18711.0,2.0,5.8/10,34%,48/100,0,0,0
+Mean Girls ,"USA, Canada",Comedy,"English, German, Vietnamese, Swahili",2.0,True,PG-13,30-Apr-04,97 min,21-Sep-04,"3,01,245",,,,,7.0/10,84%,66/100,0,7,25
+Into the Abyss ,"USA, UK, Germany","Documentary, Crime, Drama",English,,False,PG-13,30-Mar-12,107 min,10-Apr-12,"14,846",249.0,211.0,230073.0,21.0,7.3/10,92%,74/100,0,2,13
+The Pirates ,South Korea,"Action, Adventure, Comedy, Fantasy",Korean,1.0,False,Not Rated,06-Aug-14,130 min,19-Jan-15,"2,394",,,,,6.6/10,57%,0,0,8,10
+Journey 2: The Mysterious Island ,USA,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",English,6.0,True,PG,10-Feb-12,94 min,05-Jun-12,"83,630",1.0,49.0,83636.0,3.0,5.8/10,44%,41/100,0,7,4
+Freedomland ,USA,"Crime, Drama, Mystery, Thriller","English, Italian",2.0,True,R,17-Feb-06,113 min,30-May-06,"14,709",14.0,98.0,99050.0,13.0,5.1/10,23%,43/100,0,2,3
+For No Good Reason ,"UK, USA","Documentary, Biography, History, Music",English,,False,R,08-Mar-14,89 min,02-Sep-14,"1,316",61.0,367.0,106415.0,12.0,7.0/10,62%,56/100,0,0,2
+Breach ,USA,"Biography, Crime, Drama, History, Thriller","English, Russian, Arabic, Latin",5.0,True,PG-13,16-Feb-07,110 min,12-Jun-07,"55,770",25.0,161.0,235346.0,14.0,7.0/10,84%,74/100,0,1,2
+Turistas ,USA,"Horror, Mystery, Thriller","English, Portuguese",1.0,False,R,01-Dec-06,93 min,27-Mar-07,"34,226",101.0,436.0,362862.0,45.0,5.4/10,17%,36/100,0,1,1
+V/H/S/2 ,"USA, Canada, Indonesia","Horror, Thriller","English, Indonesian",8.0,True,R,06-Jun-13,96 min,24-Sep-13,"32,996",,,,,6.1/10,69%,49/100,0,1,7
+Ghost Rider ,"USA, Australia","Action, Fantasy, Thriller",English,2.0,True,PG-13,16-Feb-07,114 min,12-Jun-07,"2,09,539",465.0,2292.0,2439458.0,243.0,5.2/10,27%,35/100,0,1,9
+Broken Flowers ,"France, USA","Comedy, Drama, Mystery, Romance",English,3.0,False,R,26-Aug-05,106 min,03-Jan-06,"92,024",10.0,89.0,79523.0,4.0,7.2/10,87%,79/100,0,5,12
+Failure to Launch ,USA,"Comedy, Romance",English,2.0,False,PG-13,10-Mar-06,97 min,27-Jun-06,"66,761",,,326876.0,,5.6/10,24%,47/100,0,0,5
+"Woman in Black, The ","UK, Canada, Sweden","Drama, Fantasy, Horror, Thriller",English,2.0,True,PG-13,03-Feb-12,95 min,22-May-12,"1,65,131",,,,,6.4/10,66%,62/100,0,5,14
+Raze ,USA,"Action, Drama, Horror",English,3.0,True,R,16-Jan-14,92 min,20-May-14,"5,407",,,,,5.2/10,45%,41/100,0,2,2
+American Promise ,USA,Documentary,English,,False,PG,21-Jan-13,135 min,02-Sep-14,258,31.0,288.0,70852.0,12.0,7.0/10,71%,67/100,0,5,7
+The Bronze ,USA,"Comedy, Drama, Sport",English,2.0,False,R,18-Mar-16,100 min,02-Aug-16,"9,013",120.0,3430.0,769256.0,139.0,6.0/10,35%,44/100,0,0,1
+Little Accidents ,USA,Drama,English,1.0,False,Not Rated,12-May-16,105 min,21-Apr-15,"3,260",,,,,5.8/10,53%,56/100,0,2,12
+Year of the Dog ,USA,"Comedy, Drama",English,1.0,False,PG-13,11-May-07,97 min,28-Aug-07,"5,848",,,,,6.1/10,69%,70/100,0,1,1
+The Count of Monte Cristo ,"UK, USA, Ireland, Switzerland","Action, Adventure, Drama, Romance, Thriller",English,2.0,True,PG-13,25-Jan-02,131 min,10-Sep-02,"1,20,422",,,1183036.0,,7.8/10,74%,61/100,0,0,0
+Fast & Furious 6 ,"USA, Japan, Spain, UK","Action, Crime, Thriller","English, Spanish, Russian, Japanese, Cantonese, Dutch",2.0,True,PG-13,24-May-13,130 min,10-Dec-13,"3,46,202",4889.0,42054.0,18039599.0,2212.0,7.1/10,70%,61/100,0,9,21
+Surf's Up ,USA,"Animation, Comedy, Family, Sport",English,7.0,True,PG,08-Jun-07,85 min,09-Oct-07,"62,801",124.0,393.0,395017.0,42.0,6.7/10,79%,64/100,1,2,17
+Ultraviolet ,USA,"Action, Adventure, Sci-Fi","English, Vietnamese",1.0,False,PG-13,03-Mar-06,88 min,27-Jun-06,"76,567",220.0,1001.0,613119.0,68.0,4.4/10,9%,18/100,0,1,2
+Desi Boyz ,India,"Comedy, Drama","Hindi, Gujarati, Punjabi, English",4.0,True,Not Rated,25-Nov-11,122 min,,"11,841",213.0,1582.0,1107614.0,186.0,5.9/10,0,0,0,2,5
+Changing Times ,France,"Drama, Romance",French,3.0,False,,15-Dec-04,94 min,03-Oct-06,"1,499",3.0,38.0,25574.0,2.0,6.2/10,63%,64/100,0,0,5
+Narc ,"USA, Canada","Crime, Drama, Mystery, Thriller","English, Spanish",1.0,False,R,10-Jan-03,105 min,17-Jun-03,"36,740",,,99649.0,,7.2/10,84%,70/100,0,1,8
+"Prize Winner of Defiance Ohio, The ",USA,"Biography, Drama",English,2.0,True,PG-13,01-Jun-07,99 min,14-Mar-06,"6,408",19.0,149.0,60519.0,3.0,7.3/10,58%,58/100,0,1,1
+"Dark Knight Rises, The ","UK, USA","Action, Thriller","English, Arabic",5.0,True,PG-13,20-Jul-12,164 min,03-Dec-12,"13,89,960",1304.0,7775.0,1384600.0,130.0,8.4/10,87%,78/100,1,38,102
+Big Game ,"UK, Finland, Germany","Action, Adventure, Crime, Thriller","English, Finnish",3.0,True,PG-13,26-Jun-15,110 min,25-Aug-15,"28,567",,,,,5.4/10,78%,53/100,0,1,8
+What Just Happened ,USA,"Comedy, Drama","English, Hebrew, French",2.0,True,R,31-Oct-08,104 min,24-Feb-09,"25,406",0.0,9.0,7440.0,1.0,5.7/10,50%,0,0,0,1
+"Cooler, The ",USA,"Drama, Romance",English,2.0,False,R,16-Jan-04,101 min,27-Apr-04,"30,903",27.0,78.0,183847.0,5.0,7.0/10,77%,69/100,1,9,25
+Fast Food Nation ,"UK, USA","Comedy, Drama, Romance, Thriller","English, Spanish",3.0,True,R,04-May-07,116 min,06-Mar-07,"22,545",356.0,914.0,737531.0,85.0,6.3/10,50%,64/100,0,1,3
+Pompeii ,"Canada, Germany, USA","Action, Adventure, Drama, History, Romance",English,3.0,True,PG-13,21-Feb-14,105 min,20-May-14,"1,00,461",4214.0,20082.0,9668704.0,2545.0,5.5/10,27%,39/100,0,9,4
+Whiteout ,"USA, Canada, France, Turkey","Action, Crime, Horror, Mystery, Thriller","English, Russian",6.0,True,R,11-Sep-09,101 min,19-Jan-10,"35,506",15.0,88.0,149379.0,11.0,5.5/10,7%,0,0,0,0
+Daredevil ,USA,"Action, Adventure, Crime","English, Greek, Italian",1.0,True,PG-13,14-Feb-03,103 min,29-Jul-03,"1,97,710",10.0,92.0,64992.0,4.0,5.3/10,44%,42/100,0,5,16
+Bonsái ,"Chile, Argentina, Portugal, France",Drama,Spanish,2.0,True,Not Rated,09-Nov-11,95 min,21-Aug-12,786,12.0,230.0,125179.0,23.0,6.3/10,83%,65/100,0,3,3
+Brooklyn Rules ,USA,"Crime, Drama",English,1.0,False,R,28-May-09,99 min,18-Sep-07,"5,308",,,,,6.4/10,45%,53/100,0,0,0
+Read My Lips ,France,"Crime, Drama, Romance, Thriller",French,2.0,False,R,26-Jul-02,115 min,22-Jul-03,"12,499",14.0,139.0,163232.0,10.0,7.4/10,97%,82/100,0,7,12
+Around the Bend ,USA,"Comedy, Drama",English,1.0,False,R,20-Jan-05,85 min,22-Feb-05,"4,029",1.0,,1727.0,,6.5/10,29%,46/100,0,4,3
+"Black Power Mixtape 1967-1975, The ","Sweden, USA","Documentary, History","English, Swedish",1.0,False,Not Rated,01-Apr-11,100 min,13-Dec-11,"1,660",1.0,18.0,6183.0,0.0,7.6/10,92%,73/100,0,4,8
+"Matrix Revolutions, The ",USA,"Action, Sci-Fi","English, French",4.0,True,R,05-Nov-03,129 min,06-Apr-04,"4,16,449",23.0,136.0,128392.0,8.0,6.7/10,36%,47/100,0,4,30
+Who Killed the Electric Car? ,USA,Documentary,English,1.0,False,PG,04-Aug-06,92 min,14-Nov-06,"11,857",549.0,1355.0,646807.0,83.0,7.7/10,89%,70/100,0,0,4
+"Stoning of Soraya M., The ",USA,Drama,"Persian, English",3.0,True,R,09-Oct-09,114 min,09-Mar-10,"17,141",,,,,8.0/10,59%,50/100,0,6,8
