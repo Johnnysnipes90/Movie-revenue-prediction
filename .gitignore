@@ -13,11 +13,12 @@ Thumbs.db
 .vscode/
 
 # Data (avoid committing large/private datasets)
-data/
+#data/
 # Ignore all CSVs by default
 *.csv
 
 # Explicitly allow project datasets
+!data/
 !train.csv
 !test.csv
 !sample_submission.csv
