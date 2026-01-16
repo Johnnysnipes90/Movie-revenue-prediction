@@ -1,0 +1,21 @@
+# Python / virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / VS Code
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data (avoid committing large/private datasets)
+data/
+*.csv
+
+# Outputs
+*.pkl
+*.joblib
